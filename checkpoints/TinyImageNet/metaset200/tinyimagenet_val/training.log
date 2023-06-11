@@ -1,0 +1,4 @@
+DEBUG:root:Test:	batch_time: 7.782702207565308	Loss: 2.2462151020765306	Cla_Loss: 1.657380574941635	Con_Loss: 0.5888345362618566	Cla_top1_acc: 63.43	Con_top1_acc:90.23	Cla_top5_acc: 85.37	Con_top5_acc: 96.955
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.643950939178467	Loss: 2.246200588345528	Cla_Loss: 1.6573733389377594	Con_Loss: 0.5888272672891617	Cla_top1_acc: 63.43	Con_top1_acc:90.24	Cla_top5_acc: 85.37	Con_top5_acc: 96.955
+INFO:root:Test has finished.

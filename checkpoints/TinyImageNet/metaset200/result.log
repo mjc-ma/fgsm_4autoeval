@@ -1,0 +1,25 @@
+Number of model parameters: 30212360
+=> loading checkpoint '/home/majc/Contrastive_AutoEval-1/checkpoints/checkpoint_best.pth'
+=> loaded checkpoint '/home/majc/Contrastive_AutoEval-1/checkpoints/checkpoint_best.pth' (epoch 28)
+
+Epoch:28
+
+Test batch size:36
+Test on tinyimagenet_c
+
+Semantic classification accuracy on tinyimagenet_c: 45.41
+Contrastive learning accuracy on tinyimagenet_c: 90.15
+
+Spearman's Rank correlation-rho 0.954255324799188
+Spearman's Rank correlation-pval 4.459050741930337e-112
+
+Pearsons correlation-rho 0.8735785262467469
+Pearsons correlation-pval 1.3186105569739836e-67
+
+Kendall's Rank correlation-rho 0.8179532742765978
+Kendall's correlation-pval 6.090554676121319e-70
+
+Coefficients of Determination-r2 -16.467994247903892
+
+Linear regression model predicts 37.304587 and its absolute error is 8.106674
+Robust Linear regression model predicts 38.003843 and its absolute error is 7.407419

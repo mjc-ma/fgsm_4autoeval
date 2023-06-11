@@ -1,0 +1,1396 @@
+DEBUG:root:Test:	batch_time: 11.894625902175903	Loss: 6.23725962638855	Cla_Loss: 4.812498033046722	Con_Loss: 1.424761574715376	Cla_top1_acc: 27.15	Con_top1_acc:75.28	Cla_top5_acc: 47.0	Con_top5_acc: 87.67
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.288241147994995	Loss: 5.825186443328858	Cla_Loss: 4.645241808891297	Con_Loss: 1.1799446523189545	Cla_top1_acc: 27.67	Con_top1_acc:80.145	Cla_top5_acc: 47.1	Con_top5_acc: 91.235
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.047969818115234	Loss: 8.212173914909362	Cla_Loss: 6.015174651145935	Con_Loss: 2.1969991877675055	Cla_top1_acc: 16.72	Con_top1_acc:59.505	Cla_top5_acc: 32.16	Con_top5_acc: 76.63
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.117432355880737	Loss: 3.854673707485199	Cla_Loss: 2.9633186787366865	Con_Loss: 0.8913550093770027	Cla_top1_acc: 42.91	Con_top1_acc:85.365	Cla_top5_acc: 68.44	Con_top5_acc: 94.15
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8046772480010986	Loss: 6.759797155857086	Cla_Loss: 5.223360025882721	Con_Loss: 1.5364371366798877	Cla_top1_acc: 21.17	Con_top1_acc:72.995	Cla_top5_acc: 41.82	Con_top5_acc: 87.93
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.697540521621704	Loss: 8.304100215435028	Cla_Loss: 6.172802519798279	Con_Loss: 2.13129765689373	Cla_top1_acc: 16.63	Con_top1_acc:61.855	Cla_top5_acc: 34.62	Con_top5_acc: 77.99
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.951932191848755	Loss: 5.195743525028229	Cla_Loss: 4.035125827789306	Con_Loss: 1.160617695748806	Cla_top1_acc: 34.81	Con_top1_acc:79.825	Cla_top5_acc: 57.11	Con_top5_acc: 90.93
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.170666694641113	Loss: 4.719101101160049	Cla_Loss: 3.66558353304863	Con_Loss: 1.0535175573080777	Cla_top1_acc: 35.94	Con_top1_acc:82.6	Cla_top5_acc: 59.75	Con_top5_acc: 92.485
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.131839752197266	Loss: 4.6903357863426205	Cla_Loss: 3.6440676927566527	Con_Loss: 1.0462680794298649	Cla_top1_acc: 36.04	Con_top1_acc:82.34	Cla_top5_acc: 58.82	Con_top5_acc: 92.645
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.962491273880005	Loss: 4.854269850254059	Cla_Loss: 3.764751988649368	Con_Loss: 1.0895178386941553	Cla_top1_acc: 35.53	Con_top1_acc:80.54	Cla_top5_acc: 57.98	Con_top5_acc: 91.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.97559928894043	Loss: 4.55794939994812	Cla_Loss: 3.512639510631561	Con_Loss: 1.0453098446130753	Cla_top1_acc: 37.5	Con_top1_acc:81.76	Cla_top5_acc: 60.8	Con_top5_acc: 92.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.141453504562378	Loss: 7.192906546592712	Cla_Loss: 5.541561257839203	Con_Loss: 1.6513452976942062	Cla_top1_acc: 21.31	Con_top1_acc:71.725	Cla_top5_acc: 41.08	Con_top5_acc: 86.56
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.6347692012786865	Loss: 6.802137005329132	Cla_Loss: 5.194422602653503	Con_Loss: 1.6077143702656032	Cla_top1_acc: 22.09	Con_top1_acc:71.715	Cla_top5_acc: 42.82	Con_top5_acc: 86.59
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.071206092834473	Loss: 6.035936236381531	Cla_Loss: 4.669071435928345	Con_Loss: 1.3668648064136506	Cla_top1_acc: 28.15	Con_top1_acc:76.82	Cla_top5_acc: 48.25	Con_top5_acc: 89.27
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.13112735748291	Loss: 7.144392466545105	Cla_Loss: 5.44902024269104	Con_Loss: 1.6953722082078457	Cla_top1_acc: 19.97	Con_top1_acc:70.31	Cla_top5_acc: 39.99	Con_top5_acc: 85.975
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.186426401138306	Loss: 7.235172200202942	Cla_Loss: 5.29072927236557	Con_Loss: 1.9444429501891136	Cla_top1_acc: 21.27	Con_top1_acc:64.595	Cla_top5_acc: 42.36	Con_top5_acc: 81.61
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.998607397079468	Loss: 4.70984503030777	Cla_Loss: 3.61185941696167	Con_Loss: 1.097985564172268	Cla_top1_acc: 38.19	Con_top1_acc:81.79	Cla_top5_acc: 60.66	Con_top5_acc: 91.67
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.885663032531738	Loss: 7.1766127943992615	Cla_Loss: 5.4773658275604244	Con_Loss: 1.6992470189929008	Cla_top1_acc: 19.97	Con_top1_acc:69.925	Cla_top5_acc: 39.99	Con_top5_acc: 86.01
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0012218952178955	Loss: 8.17230578660965	Cla_Loss: 6.031824040412903	Con_Loss: 2.14048176407814	Cla_top1_acc: 16.91	Con_top1_acc:60.615	Cla_top5_acc: 33.43	Con_top5_acc: 78.025
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.833853244781494	Loss: 4.469240272045136	Cla_Loss: 3.462467706203461	Con_Loss: 1.0067725777626038	Cla_top1_acc: 38.11	Con_top1_acc:82.485	Cla_top5_acc: 60.7	Con_top5_acc: 92.81
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.347496747970581	Loss: 3.946089208126068	Cla_Loss: 3.01812629699707	Con_Loss: 0.9279629420489073	Cla_top1_acc: 43.12	Con_top1_acc:83.715	Cla_top5_acc: 67.22	Con_top5_acc: 93.46
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.431561708450317	Loss: 8.698207890987396	Cla_Loss: 6.293533563613892	Con_Loss: 2.404674281179905	Cla_top1_acc: 15.63	Con_top1_acc:55.37	Cla_top5_acc: 32.1	Con_top5_acc: 73.545
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9363226890563965	Loss: 8.252891969680785	Cla_Loss: 6.118735206127167	Con_Loss: 2.134156757593155	Cla_top1_acc: 15.85	Con_top1_acc:60.78	Cla_top5_acc: 32.41	Con_top5_acc: 77.97
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.002400636672974	Loss: 5.363091504573822	Cla_Loss: 4.240222275257111	Con_Loss: 1.1228691920638085	Cla_top1_acc: 31.0	Con_top1_acc:81.215	Cla_top5_acc: 51.24	Con_top5_acc: 91.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.3316733837127686	Loss: 8.642006528377532	Cla_Loss: 6.546482682228088	Con_Loss: 2.095523935556412	Cla_top1_acc: 15.16	Con_top1_acc:62.615	Cla_top5_acc: 31.34	Con_top5_acc: 79.775
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9089391231536865	Loss: 4.888434106111527	Cla_Loss: 3.7747302055358887	Con_Loss: 1.1137039169669152	Cla_top1_acc: 35.53	Con_top1_acc:79.91	Cla_top5_acc: 57.98	Con_top5_acc: 91.265
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.934311151504517	Loss: 4.515450024604798	Cla_Loss: 3.4922842264175413	Con_Loss: 1.0231657467782498	Cla_top1_acc: 38.45	Con_top1_acc:82.47	Cla_top5_acc: 60.8	Con_top5_acc: 92.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.8668577671051025	Loss: 4.210370415449143	Cla_Loss: 3.209780275821686	Con_Loss: 1.0005901075899601	Cla_top1_acc: 40.65	Con_top1_acc:81.36	Cla_top5_acc: 64.96	Con_top5_acc: 92.46
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.975088357925415	Loss: 4.666990208625793	Cla_Loss: 3.6326368033885954	Con_Loss: 1.034353419393301	Cla_top1_acc: 36.92	Con_top1_acc:83.005	Cla_top5_acc: 60.25	Con_top5_acc: 92.7
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.230223655700684	Loss: 5.85461049079895	Cla_Loss: 4.656843912601471	Con_Loss: 1.1977665793150662	Cla_top1_acc: 27.38	Con_top1_acc:79.83	Cla_top5_acc: 46.84	Con_top5_acc: 90.74
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.017507314682007	Loss: 6.630266416072845	Cla_Loss: 5.004444670677185	Con_Loss: 1.6258217461407185	Cla_top1_acc: 24.67	Con_top1_acc:70.85	Cla_top5_acc: 46.76	Con_top5_acc: 85.73
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.010877370834351	Loss: 4.516256439685821	Cla_Loss: 3.4796334326267244	Con_Loss: 1.036623015254736	Cla_top1_acc: 38.11	Con_top1_acc:82.015	Cla_top5_acc: 60.7	Con_top5_acc: 92.135
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.015644311904907	Loss: 6.794096374511719	Cla_Loss: 5.209159350395202	Con_Loss: 1.584937009960413	Cla_top1_acc: 21.93	Con_top1_acc:70.44	Cla_top5_acc: 43.16	Con_top5_acc: 86.79
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.997999668121338	Loss: 4.503620463609695	Cla_Loss: 3.4786289632320404	Con_Loss: 1.024991501867771	Cla_top1_acc: 37.5	Con_top1_acc:81.95	Cla_top5_acc: 60.8	Con_top5_acc: 92.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.097177982330322	Loss: 6.083582139015197	Cla_Loss: 4.685275685787201	Con_Loss: 1.3983064725995065	Cla_top1_acc: 28.15	Con_top1_acc:76.44	Cla_top5_acc: 48.25	Con_top5_acc: 88.89
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4231746196746826	Loss: 7.74759886264801	Cla_Loss: 5.795152807235718	Con_Loss: 1.9524460852146148	Cla_top1_acc: 18.52	Con_top1_acc:65.81	Cla_top5_acc: 38.27	Con_top5_acc: 82.1
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.472476482391357	Loss: 8.887350881099701	Cla_Loss: 6.371434032917023	Con_Loss: 2.515916743129492	Cla_top1_acc: 15.03	Con_top1_acc:53.49	Cla_top5_acc: 31.32	Con_top5_acc: 71.44
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.888651609420776	Loss: 5.12277866601944	Cla_Loss: 3.997283470630646	Con_Loss: 1.1254952140152454	Cla_top1_acc: 33.08	Con_top1_acc:80.04	Cla_top5_acc: 55.35	Con_top5_acc: 91.23
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9310462474823	Loss: 5.741216576099395	Cla_Loss: 4.597253036499024	Con_Loss: 1.143963523209095	Cla_top1_acc: 28.11	Con_top1_acc:80.935	Cla_top5_acc: 46.99	Con_top5_acc: 91.935
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.058027505874634	Loss: 3.6901674211025237	Cla_Loss: 2.838424414396286	Con_Loss: 0.8517430230975152	Cla_top1_acc: 45.17	Con_top1_acc:85.835	Cla_top5_acc: 70.73	Con_top5_acc: 94.505
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.689082145690918	Loss: 3.6954524755477904	Cla_Loss: 2.820201224088669	Con_Loss: 0.8752512784674764	Cla_top1_acc: 45.28	Con_top1_acc:84.73	Cla_top5_acc: 70.01	Con_top5_acc: 94.225
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.284474611282349	Loss: 8.110714519023896	Cla_Loss: 6.038447165489197	Con_Loss: 2.072267343103886	Cla_top1_acc: 16.95	Con_top1_acc:61.575	Cla_top5_acc: 34.91	Con_top5_acc: 78.94
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.115651845932007	Loss: 6.1624275803565975	Cla_Loss: 4.757930612564087	Con_Loss: 1.4044969454407692	Cla_top1_acc: 27.15	Con_top1_acc:75.94	Cla_top5_acc: 47.0	Con_top5_acc: 88.21
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.438928127288818	Loss: 5.574351805448532	Cla_Loss: 4.361182552576065	Con_Loss: 1.2131692707538604	Cla_top1_acc: 29.61	Con_top1_acc:78.64	Cla_top5_acc: 49.7	Con_top5_acc: 90.495
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.189857482910156	Loss: 4.973461478948593	Cla_Loss: 3.927010017633438	Con_Loss: 1.046451497077942	Cla_top1_acc: 33.39	Con_top1_acc:81.62	Cla_top5_acc: 55.63	Con_top5_acc: 92.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.07106351852417	Loss: 5.414877867698669	Cla_Loss: 4.300672477483749	Con_Loss: 1.1142054058611393	Cla_top1_acc: 30.7	Con_top1_acc:81.14	Cla_top5_acc: 51.52	Con_top5_acc: 91.79
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.049858808517456	Loss: 3.6923614740371704	Cla_Loss: 2.849491596221924	Con_Loss: 0.8428698724601418	Cla_top1_acc: 45.17	Con_top1_acc:86.065	Cla_top5_acc: 70.73	Con_top5_acc: 94.64
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.079881429672241	Loss: 7.591112554073334	Cla_Loss: 5.515034580230713	Con_Loss: 2.0760779842734336	Cla_top1_acc: 19.93	Con_top1_acc:62.295	Cla_top5_acc: 40.74	Con_top5_acc: 79.695
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.982934474945068	Loss: 5.2549873232841495	Cla_Loss: 4.140507304668427	Con_Loss: 1.1144799813628197	Cla_top1_acc: 32.82	Con_top1_acc:80.04	Cla_top5_acc: 54.79	Con_top5_acc: 91.37
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.128729343414307	Loss: 6.243217027187347	Cla_Loss: 4.851343739032745	Con_Loss: 1.3918732956051827	Cla_top1_acc: 25.73	Con_top1_acc:77.215	Cla_top5_acc: 45.3	Con_top5_acc: 89.09
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.774620294570923	Loss: 5.697578644752502	Cla_Loss: 4.534153866767883	Con_Loss: 1.1634247932583093	Cla_top1_acc: 29.22	Con_top1_acc:79.73	Cla_top5_acc: 49.56	Con_top5_acc: 91.075
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.3241894245147705	Loss: 5.36835526227951	Cla_Loss: 4.188689768314362	Con_Loss: 1.1796654634177686	Cla_top1_acc: 33.29	Con_top1_acc:79.95	Cla_top5_acc: 55.72	Con_top5_acc: 91.0
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.354734182357788	Loss: 4.475870180130005	Cla_Loss: 3.437129294872284	Con_Loss: 1.0387408765032888	Cla_top1_acc: 38.99	Con_top1_acc:83.355	Cla_top5_acc: 61.7	Con_top5_acc: 92.705
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0594401359558105	Loss: 4.711656779050827	Cla_Loss: 3.616349142789841	Con_Loss: 1.095307624153793	Cla_top1_acc: 35.85	Con_top1_acc:81.345	Cla_top5_acc: 59.96	Con_top5_acc: 91.76
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.885168075561523	Loss: 5.139357459545136	Cla_Loss: 3.9945252776145934	Con_Loss: 1.144832184165716	Cla_top1_acc: 34.81	Con_top1_acc:80.39	Cla_top5_acc: 57.11	Con_top5_acc: 91.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.1777729988098145	Loss: 7.108755660057068	Cla_Loss: 5.481507158279419	Con_Loss: 1.6272485002875328	Cla_top1_acc: 21.31	Con_top1_acc:72.165	Cla_top5_acc: 41.08	Con_top5_acc: 86.62
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.11687445640564	Loss: 5.106158971786499	Cla_Loss: 4.048249089717865	Con_Loss: 1.0579098682850598	Cla_top1_acc: 33.34	Con_top1_acc:81.565	Cla_top5_acc: 55.36	Con_top5_acc: 92.09
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0938169956207275	Loss: 3.867752304673195	Cla_Loss: 2.9609831392765047	Con_Loss: 0.906769141741097	Cla_top1_acc: 42.91	Con_top1_acc:84.135	Cla_top5_acc: 68.44	Con_top5_acc: 94.0
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.384059429168701	Loss: 5.7400348544120785	Cla_Loss: 4.584937286376953	Con_Loss: 1.1550975415855647	Cla_top1_acc: 27.58	Con_top1_acc:80.515	Cla_top5_acc: 47.84	Con_top5_acc: 91.465
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.138014554977417	Loss: 6.743012857437134	Cla_Loss: 5.2034733414649965	Con_Loss: 1.5395395278930664	Cla_top1_acc: 21.17	Con_top1_acc:73.085	Cla_top5_acc: 41.82	Con_top5_acc: 87.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.916172504425049	Loss: 6.972472310066223	Cla_Loss: 5.023351353406906	Con_Loss: 1.9491209283471107	Cla_top1_acc: 23.6	Con_top1_acc:64.81	Cla_top5_acc: 45.27	Con_top5_acc: 81.095
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.916701078414917	Loss: 6.9284120321273805	Cla_Loss: 5.336712151765823	Con_Loss: 1.591699879616499	Cla_top1_acc: 20.99	Con_top1_acc:72.195	Cla_top5_acc: 41.34	Con_top5_acc: 87.22
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.05983829498291	Loss: 7.697195720672608	Cla_Loss: 5.765905570983887	Con_Loss: 1.931290179491043	Cla_top1_acc: 18.52	Con_top1_acc:65.955	Cla_top5_acc: 38.27	Con_top5_acc: 82.435
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.167071342468262	Loss: 5.412974846363068	Cla_Loss: 4.272217309474945	Con_Loss: 1.1407575629651547	Cla_top1_acc: 30.7	Con_top1_acc:80.45	Cla_top5_acc: 51.52	Con_top5_acc: 91.41
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.304358243942261	Loss: 4.317620038986206	Cla_Loss: 3.2894445180892946	Con_Loss: 1.0281755292788148	Cla_top1_acc: 39.91	Con_top1_acc:80.75	Cla_top5_acc: 64.07	Con_top5_acc: 91.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.064181566238403	Loss: 3.8806480705738067	Cla_Loss: 2.971796762943268	Con_Loss: 0.9088513273745775	Cla_top1_acc: 43.08	Con_top1_acc:85.035	Cla_top5_acc: 68.19	Con_top5_acc: 94.025
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.647657155990601	Loss: 5.039143294095993	Cla_Loss: 3.8786620140075683	Con_Loss: 1.1604812625795602	Cla_top1_acc: 32.85	Con_top1_acc:79.27	Cla_top5_acc: 54.68	Con_top5_acc: 90.875
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.110065937042236	Loss: 3.7957739889621736	Cla_Loss: 2.9155249416828157	Con_Loss: 0.8802490640431643	Cla_top1_acc: 44.83	Con_top1_acc:84.63	Cla_top5_acc: 69.73	Con_top5_acc: 94.06
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0221781730651855	Loss: 6.822814106941223	Cla_Loss: 5.201387619972229	Con_Loss: 1.6214265055954455	Cla_top1_acc: 21.59	Con_top1_acc:71.515	Cla_top5_acc: 42.57	Con_top5_acc: 86.25
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.094065189361572	Loss: 7.287404012680054	Cla_Loss: 5.365868449211121	Con_Loss: 1.921535536646843	Cla_top1_acc: 22.02	Con_top1_acc:65.04	Cla_top5_acc: 43.35	Con_top5_acc: 81.615
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.687590837478638	Loss: 6.957292795181274	Cla_Loss: 5.2872254848480225	Con_Loss: 1.670067334920168	Cla_top1_acc: 19.95	Con_top1_acc:71.125	Cla_top5_acc: 40.8	Con_top5_acc: 86.32
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0195395946502686	Loss: 3.7760764241218565	Cla_Loss: 2.8703371584415436	Con_Loss: 0.9057392673566937	Cla_top1_acc: 43.81	Con_top1_acc:83.985	Cla_top5_acc: 69.02	Con_top5_acc: 93.625
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.026815414428711	Loss: 5.407613778114319	Cla_Loss: 4.228388851881027	Con_Loss: 1.179224955663085	Cla_top1_acc: 30.96	Con_top1_acc:78.725	Cla_top5_acc: 51.97	Con_top5_acc: 90.755
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.916761875152588	Loss: 5.197368812561035	Cla_Loss: 4.019895559549331	Con_Loss: 1.1774732459336519	Cla_top1_acc: 34.81	Con_top1_acc:79.375	Cla_top5_acc: 57.11	Con_top5_acc: 90.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.017899036407471	Loss: 8.183811295032502	Cla_Loss: 6.005146503448486	Con_Loss: 2.178664826601744	Cla_top1_acc: 16.72	Con_top1_acc:59.98	Cla_top5_acc: 32.16	Con_top5_acc: 77.255
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.055111646652222	Loss: 6.239570260047913	Cla_Loss: 4.8683098435401915	Con_Loss: 1.371260429173708	Cla_top1_acc: 25.73	Con_top1_acc:77.36	Cla_top5_acc: 45.3	Con_top5_acc: 89.355
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.830149173736572	Loss: 6.74279066324234	Cla_Loss: 5.058585500717163	Con_Loss: 1.6842051669955254	Cla_top1_acc: 24.2	Con_top1_acc:69.515	Cla_top5_acc: 46.55	Con_top5_acc: 85.165
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.16727614402771	Loss: 7.173534393310547	Cla_Loss: 5.281299471855164	Con_Loss: 1.8922348983585835	Cla_top1_acc: 22.14	Con_top1_acc:65.62	Cla_top5_acc: 43.83	Con_top5_acc: 82.14
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.213557004928589	Loss: 8.741597247123718	Cla_Loss: 6.4278396487236025	Con_Loss: 2.313757595419884	Cla_top1_acc: 14.1	Con_top1_acc:57.245	Cla_top5_acc: 29.33	Con_top5_acc: 74.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.996880531311035	Loss: 5.286331844329834	Cla_Loss: 4.116007155179977	Con_Loss: 1.170324669033289	Cla_top1_acc: 32.51	Con_top1_acc:79.76	Cla_top5_acc: 54.52	Con_top5_acc: 91.52
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.043574333190918	Loss: 4.099962919950485	Cla_Loss: 3.0957663834095	Con_Loss: 1.0041965303942562	Cla_top1_acc: 41.22	Con_top1_acc:81.345	Cla_top5_acc: 65.87	Con_top5_acc: 91.885
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3781275749206543	Loss: 7.068220257759094	Cla_Loss: 5.378405022621155	Con_Loss: 1.689815231412649	Cla_top1_acc: 20.06	Con_top1_acc:70.46	Cla_top5_acc: 40.05	Con_top5_acc: 85.78
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.316876411437988	Loss: 8.538860929012298	Cla_Loss: 6.188509130477906	Con_Loss: 2.350351798534393	Cla_top1_acc: 16.54	Con_top1_acc:57.215	Cla_top5_acc: 34.04	Con_top5_acc: 74.07
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.877833366394043	Loss: 3.773791241645813	Cla_Loss: 2.8838699519634248	Con_Loss: 0.889921297505498	Cla_top1_acc: 43.81	Con_top1_acc:84.37	Cla_top5_acc: 69.02	Con_top5_acc: 93.945
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.898325681686401	Loss: 7.33091105222702	Cla_Loss: 5.498811364173889	Con_Loss: 1.8320996884256602	Cla_top1_acc: 19.37	Con_top1_acc:65.8	Cla_top5_acc: 40.12	Con_top5_acc: 83.19
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.98234748840332	Loss: 4.102993315458297	Cla_Loss: 3.1648541033267974	Con_Loss: 0.9381392143666745	Cla_top1_acc: 41.17	Con_top1_acc:84.245	Cla_top5_acc: 66.03	Con_top5_acc: 93.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9275004863739014	Loss: 3.712756711244583	Cla_Loss: 2.8326598703861237	Con_Loss: 0.8800968270748853	Cla_top1_acc: 45.58	Con_top1_acc:84.79	Cla_top5_acc: 70.89	Con_top5_acc: 93.97
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.8882269859313965	Loss: 4.452893453836441	Cla_Loss: 3.4489974081516266	Con_Loss: 1.0038960445672274	Cla_top1_acc: 38.12	Con_top1_acc:82.845	Cla_top5_acc: 61.1	Con_top5_acc: 93.18
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.8668787479400635	Loss: 4.9797791838645935	Cla_Loss: 3.903825265169144	Con_Loss: 1.0759539037011563	Cla_top1_acc: 33.23	Con_top1_acc:80.885	Cla_top5_acc: 55.71	Con_top5_acc: 91.92
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.129693031311035	Loss: 5.44363911151886	Cla_Loss: 4.252842199802399	Con_Loss: 1.1907969053834677	Cla_top1_acc: 32.93	Con_top1_acc:79.035	Cla_top5_acc: 55.22	Con_top5_acc: 90.435
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.967453718185425	Loss: 3.7159555554389954	Cla_Loss: 2.841288721561432	Con_Loss: 0.874666827917099	Cla_top1_acc: 45.13	Con_top1_acc:85.505	Cla_top5_acc: 70.19	Con_top5_acc: 94.31
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.090222358703613	Loss: 3.998134207725525	Cla_Loss: 3.0917068243026735	Con_Loss: 0.9064273737370968	Cla_top1_acc: 41.69	Con_top1_acc:84.68	Cla_top5_acc: 67.0	Con_top5_acc: 93.89
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.132451295852661	Loss: 5.6435009121894835	Cla_Loss: 4.349421668052673	Con_Loss: 1.2940792553126812	Cla_top1_acc: 30.63	Con_top1_acc:77.865	Cla_top5_acc: 52.07	Con_top5_acc: 89.625
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.948768377304077	Loss: 4.525982242822647	Cla_Loss: 3.5032118380069734	Con_Loss: 1.0227703883312642	Cla_top1_acc: 37.6	Con_top1_acc:82.205	Cla_top5_acc: 59.97	Con_top5_acc: 92.515
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.981396675109863	Loss: 3.640612816810608	Cla_Loss: 2.78080687969923	Con_Loss: 0.8598059378564358	Cla_top1_acc: 45.58	Con_top1_acc:85.525	Cla_top5_acc: 70.89	Con_top5_acc: 94.315
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.896606683731079	Loss: 5.38038547039032	Cla_Loss: 4.1821448802948	Con_Loss: 1.198240552097559	Cla_top1_acc: 33.29	Con_top1_acc:79.26	Cla_top5_acc: 55.72	Con_top5_acc: 90.865
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.082598924636841	Loss: 6.104364711046219	Cla_Loss: 4.732633131742477	Con_Loss: 1.3717315956950187	Cla_top1_acc: 27.15	Con_top1_acc:76.45	Cla_top5_acc: 47.0	Con_top5_acc: 88.65
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6430294513702393	Loss: 8.254855513572693	Cla_Loss: 6.0956404447555546	Con_Loss: 2.1592150516808033	Cla_top1_acc: 16.95	Con_top1_acc:59.405	Cla_top5_acc: 34.5	Con_top5_acc: 77.635
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.235912084579468	Loss: 4.784801661968231	Cla_Loss: 3.6890312910079954	Con_Loss: 1.0957703657448292	Cla_top1_acc: 35.85	Con_top1_acc:81.67	Cla_top5_acc: 59.96	Con_top5_acc: 91.745
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.920016765594482	Loss: 4.681387948989868	Cla_Loss: 3.6255840361118317	Con_Loss: 1.0558039005845785	Cla_top1_acc: 36.04	Con_top1_acc:82.005	Cla_top5_acc: 58.82	Con_top5_acc: 92.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.984221696853638	Loss: 4.903737485408783	Cla_Loss: 3.7206021010875703	Con_Loss: 1.1831353716552258	Cla_top1_acc: 34.65	Con_top1_acc:79.68	Cla_top5_acc: 57.39	Con_top5_acc: 90.9
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.837794303894043	Loss: 8.51378630399704	Cla_Loss: 6.358691382408142	Con_Loss: 2.1550949692726133	Cla_top1_acc: 14.67	Con_top1_acc:61.08	Cla_top5_acc: 29.88	Con_top5_acc: 78.265
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.978543281555176	Loss: 7.0566207528114315	Cla_Loss: 5.175307273864746	Con_Loss: 1.8813134536147118	Cla_top1_acc: 22.61	Con_top1_acc:65.75	Cla_top5_acc: 43.98	Con_top5_acc: 82.545
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.972263336181641	Loss: 6.881189823150635	Cla_Loss: 5.132094383239746	Con_Loss: 1.7490954242646695	Cla_top1_acc: 23.16	Con_top1_acc:68.475	Cla_top5_acc: 44.73	Con_top5_acc: 84.58
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.850825786590576	Loss: 5.8335713863372805	Cla_Loss: 4.6349461555480955	Con_Loss: 1.1986252706497909	Cla_top1_acc: 27.38	Con_top1_acc:79.865	Cla_top5_acc: 46.84	Con_top5_acc: 90.785
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.950094938278198	Loss: 4.414026373624802	Cla_Loss: 3.493557262420654	Con_Loss: 0.920469107478857	Cla_top1_acc: 38.55	Con_top1_acc:84.98	Cla_top5_acc: 61.78	Con_top5_acc: 93.96
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.065922260284424	Loss: 6.9506797909736635	Cla_Loss: 5.344280862808228	Con_Loss: 1.6063989490270614	Cla_top1_acc: 20.79	Con_top1_acc:71.45	Cla_top5_acc: 40.81	Con_top5_acc: 86.83
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.986365556716919	Loss: 6.69218270778656	Cla_Loss: 5.012885618209839	Con_Loss: 1.6792970702052117	Cla_top1_acc: 23.67	Con_top1_acc:69.48	Cla_top5_acc: 45.33	Con_top5_acc: 85.37
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.956187725067139	Loss: 4.386510753631592	Cla_Loss: 3.3669783413410186	Con_Loss: 1.0195324204862117	Cla_top1_acc: 39.22	Con_top1_acc:83.745	Cla_top5_acc: 62.5	Con_top5_acc: 93.01
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.086892604827881	Loss: 3.9591505467891692	Cla_Loss: 3.056401401758194	Con_Loss: 0.9027491301298142	Cla_top1_acc: 43.12	Con_top1_acc:84.19	Cla_top5_acc: 67.22	Con_top5_acc: 93.75
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.1150963306427	Loss: 8.279183900356292	Cla_Loss: 6.12050029039383	Con_Loss: 2.1586835749447344	Cla_top1_acc: 17.41	Con_top1_acc:60.15	Cla_top5_acc: 35.02	Con_top5_acc: 77.08
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6023974418640137	Loss: 3.9128427624702455	Cla_Loss: 2.977654355764389	Con_Loss: 0.935188390314579	Cla_top1_acc: 43.08	Con_top1_acc:84.65	Cla_top5_acc: 68.19	Con_top5_acc: 93.91
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.3719494342803955	Loss: 6.740085518360138	Cla_Loss: 5.168632471561432	Con_Loss: 1.5714530639350415	Cla_top1_acc: 22.45	Con_top1_acc:72.88	Cla_top5_acc: 43.19	Con_top5_acc: 86.975
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.024438858032227	Loss: 4.6175691962242125	Cla_Loss: 3.6573287427425383	Con_Loss: 0.9602404883131385	Cla_top1_acc: 36.69	Con_top1_acc:83.955	Cla_top5_acc: 59.61	Con_top5_acc: 93.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.019661903381348	Loss: 8.828638935089112	Cla_Loss: 6.383453166484832	Con_Loss: 2.4451857283711433	Cla_top1_acc: 15.81	Con_top1_acc:55.2	Cla_top5_acc: 32.32	Con_top5_acc: 72.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.915485620498657	Loss: 6.779151916503906	Cla_Loss: 5.17753387093544	Con_Loss: 1.6016180112957954	Cla_top1_acc: 21.93	Con_top1_acc:70.19	Cla_top5_acc: 43.16	Con_top5_acc: 86.695
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.355296611785889	Loss: 5.393624711036682	Cla_Loss: 4.224103820323944	Con_Loss: 1.1695208948105573	Cla_top1_acc: 33.07	Con_top1_acc:80.03	Cla_top5_acc: 55.43	Con_top5_acc: 90.955
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.950732469558716	Loss: 8.387053310871124	Cla_Loss: 6.155767738819122	Con_Loss: 2.231285558640957	Cla_top1_acc: 15.56	Con_top1_acc:57.875	Cla_top5_acc: 31.91	Con_top5_acc: 76.0
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.91111421585083	Loss: 6.929184520244599	Cla_Loss: 5.0052795767784115	Con_Loss: 1.9239049673080444	Cla_top1_acc: 23.22	Con_top1_acc:65.055	Cla_top5_acc: 45.2	Con_top5_acc: 81.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8767950534820557	Loss: 4.517325508594513	Cla_Loss: 3.5618495285511016	Con_Loss: 0.955475939065218	Cla_top1_acc: 37.32	Con_top1_acc:84.12	Cla_top5_acc: 60.28	Con_top5_acc: 93.55
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.941280364990234	Loss: 7.297108447551727	Cla_Loss: 5.3576461434364315	Con_Loss: 1.9394623398780824	Cla_top1_acc: 22.02	Con_top1_acc:64.955	Cla_top5_acc: 43.35	Con_top5_acc: 81.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.040536880493164	Loss: 4.56703873872757	Cla_Loss: 3.6022434413433073	Con_Loss: 0.9647952653467655	Cla_top1_acc: 37.32	Con_top1_acc:83.975	Cla_top5_acc: 60.28	Con_top5_acc: 93.35
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.055750131607056	Loss: 5.061336773633957	Cla_Loss: 3.967460644245148	Con_Loss: 1.0938761555589736	Cla_top1_acc: 33.9	Con_top1_acc:80.38	Cla_top5_acc: 55.65	Con_top5_acc: 91.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.081487655639648	Loss: 8.48680258989334	Cla_Loss: 6.346838760375976	Con_Loss: 2.139963757991791	Cla_top1_acc: 14.67	Con_top1_acc:61.58	Cla_top5_acc: 29.88	Con_top5_acc: 77.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.994588851928711	Loss: 4.532637488842011	Cla_Loss: 3.504631394147873	Con_Loss: 1.0280061410740018	Cla_top1_acc: 37.6	Con_top1_acc:82.2	Cla_top5_acc: 59.97	Con_top5_acc: 92.51
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.122639179229736	Loss: 7.380251502990722	Cla_Loss: 5.526539123058319	Con_Loss: 1.8537123665213584	Cla_top1_acc: 20.13	Con_top1_acc:67.485	Cla_top5_acc: 40.27	Con_top5_acc: 83.685
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.086446285247803	Loss: 7.148361361026764	Cla_Loss: 5.482334101200104	Con_Loss: 1.666027308255434	Cla_top1_acc: 21.25	Con_top1_acc:70.66	Cla_top5_acc: 40.97	Con_top5_acc: 85.83
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.247852563858032	Loss: 7.020653939247131	Cla_Loss: 5.114769506454468	Con_Loss: 1.9058844432234765	Cla_top1_acc: 22.61	Con_top1_acc:65.515	Cla_top5_acc: 43.98	Con_top5_acc: 82.21
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.183626890182495	Loss: 6.682458746433258	Cla_Loss: 5.034380388259888	Con_Loss: 1.6480783596634865	Cla_top1_acc: 23.65	Con_top1_acc:69.975	Cla_top5_acc: 45.81	Con_top5_acc: 86.415
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.878616571426392	Loss: 4.254238885641098	Cla_Loss: 3.266215205192566	Con_Loss: 0.9880236826837063	Cla_top1_acc: 40.12	Con_top1_acc:83.135	Cla_top5_acc: 64.33	Con_top5_acc: 92.955
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.994455099105835	Loss: 7.906065773963928	Cla_Loss: 5.837716817855835	Con_Loss: 2.0683489397168158	Cla_top1_acc: 17.31	Con_top1_acc:61.365	Cla_top5_acc: 35.2	Con_top5_acc: 78.745
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0664331912994385	Loss: 6.976766300201416	Cla_Loss: 5.026073563098907	Con_Loss: 1.9506927341222764	Cla_top1_acc: 23.22	Con_top1_acc:64.4	Cla_top5_acc: 45.2	Con_top5_acc: 81.275
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.025637865066528	Loss: 4.571811813116073	Cla_Loss: 3.5466555774211885	Con_Loss: 1.0251562260091305	Cla_top1_acc: 37.08	Con_top1_acc:82.74	Cla_top5_acc: 59.94	Con_top5_acc: 92.91
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.993833303451538	Loss: 7.102941644191742	Cla_Loss: 5.255411696434021	Con_Loss: 1.8475299526005984	Cla_top1_acc: 21.73	Con_top1_acc:65.97	Cla_top5_acc: 43.03	Con_top5_acc: 82.825
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.08191990852356	Loss: 7.377725732326508	Cla_Loss: 5.649933660030365	Con_Loss: 1.7277920827269555	Cla_top1_acc: 19.34	Con_top1_acc:70.2	Cla_top5_acc: 39.3	Con_top5_acc: 85.075
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.858061790466309	Loss: 4.4877537250518795	Cla_Loss: 3.460541105270386	Con_Loss: 1.027212591841817	Cla_top1_acc: 38.12	Con_top1_acc:81.98	Cla_top5_acc: 61.1	Con_top5_acc: 92.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.065601587295532	Loss: 6.771002042293548	Cla_Loss: 5.176428055763244	Con_Loss: 1.5945739947259425	Cla_top1_acc: 22.45	Con_top1_acc:72.12	Cla_top5_acc: 43.19	Con_top5_acc: 86.535
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.971940040588379	Loss: 5.5693552732467655	Cla_Loss: 4.299195730686188	Con_Loss: 1.2701595358550548	Cla_top1_acc: 31.67	Con_top1_acc:77.99	Cla_top5_acc: 53.19	Con_top5_acc: 89.71
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.956503629684448	Loss: 5.346914863586425	Cla_Loss: 4.194794225692749	Con_Loss: 1.1521206447854637	Cla_top1_acc: 33.07	Con_top1_acc:80.445	Cla_top5_acc: 55.43	Con_top5_acc: 91.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.946058988571167	Loss: 7.887604093551635	Cla_Loss: 5.852928936481476	Con_Loss: 2.0346751369535925	Cla_top1_acc: 17.54	Con_top1_acc:62.285	Cla_top5_acc: 34.55	Con_top5_acc: 79.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.040226936340332	Loss: 5.1090746998786924	Cla_Loss: 3.934939306974411	Con_Loss: 1.1741353914141655	Cla_top1_acc: 32.85	Con_top1_acc:79.24	Cla_top5_acc: 54.68	Con_top5_acc: 90.595
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9170074462890625	Loss: 6.508512556552887	Cla_Loss: 4.880375361442566	Con_Loss: 1.6281372368335725	Cla_top1_acc: 25.65	Con_top1_acc:70.61	Cla_top5_acc: 47.69	Con_top5_acc: 85.905
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.642575740814209	Loss: 6.956953775882721	Cla_Loss: 5.151371276378631	Con_Loss: 1.805582520365715	Cla_top1_acc: 23.1	Con_top1_acc:66.755	Cla_top5_acc: 44.25	Con_top5_acc: 83.455
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.308410882949829	Loss: 7.902829563617706	Cla_Loss: 5.87697274684906	Con_Loss: 2.0258568428456782	Cla_top1_acc: 17.54	Con_top1_acc:62.48	Cla_top5_acc: 34.55	Con_top5_acc: 79.76
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9873769283294678	Loss: 8.333733630180358	Cla_Loss: 6.196992325782776	Con_Loss: 2.136741304397583	Cla_top1_acc: 16.63	Con_top1_acc:60.81	Cla_top5_acc: 34.62	Con_top5_acc: 77.89
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.015286922454834	Loss: 4.70439623594284	Cla_Loss: 3.67939932346344	Con_Loss: 1.0249969333410263	Cla_top1_acc: 37.46	Con_top1_acc:81.975	Cla_top5_acc: 59.94	Con_top5_acc: 92.525
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.018117427825928	Loss: 6.981059312820435	Cla_Loss: 5.37646666765213	Con_Loss: 1.6045926198363305	Cla_top1_acc: 21.38	Con_top1_acc:71.91	Cla_top5_acc: 42.7	Con_top5_acc: 86.78
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.1987409591674805	Loss: 8.630868411064148	Cla_Loss: 6.364646542072296	Con_Loss: 2.2662218302488326	Cla_top1_acc: 16.08	Con_top1_acc:58.295	Cla_top5_acc: 32.8	Con_top5_acc: 75.995
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.988692283630371	Loss: 5.810236120223999	Cla_Loss: 4.629058408737182	Con_Loss: 1.1811777418479323	Cla_top1_acc: 27.38	Con_top1_acc:80.08	Cla_top5_acc: 46.84	Con_top5_acc: 91.155
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.952476739883423	Loss: 7.086716938018799	Cla_Loss: 5.3955746531486515	Con_Loss: 1.6911422818899156	Cla_top1_acc: 20.06	Con_top1_acc:70.845	Cla_top5_acc: 40.05	Con_top5_acc: 85.385
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9498536586761475	Loss: 6.995792973041534	Cla_Loss: 5.354194205999375	Con_Loss: 1.6415987700223922	Cla_top1_acc: 21.38	Con_top1_acc:71.48	Cla_top5_acc: 42.7	Con_top5_acc: 85.9
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.138291358947754	Loss: 5.081593024730682	Cla_Loss: 3.9209856748580934	Con_Loss: 1.160607373714447	Cla_top1_acc: 32.85	Con_top1_acc:79.35	Cla_top5_acc: 54.68	Con_top5_acc: 90.74
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.133729696273804	Loss: 8.641944426298142	Cla_Loss: 6.332199221849441	Con_Loss: 2.3097452096641065	Cla_top1_acc: 14.1	Con_top1_acc:56.92	Cla_top5_acc: 29.33	Con_top5_acc: 74.665
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.089753150939941	Loss: 4.783562588691711	Cla_Loss: 3.6943250238895415	Con_Loss: 1.0892375439405442	Cla_top1_acc: 35.91	Con_top1_acc:81.45	Cla_top5_acc: 59.49	Con_top5_acc: 92.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.993332386016846	Loss: 5.619277739524842	Cla_Loss: 4.4481589794158936	Con_Loss: 1.171118752658367	Cla_top1_acc: 29.14	Con_top1_acc:79.91	Cla_top5_acc: 49.01	Con_top5_acc: 90.905
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.969295263290405	Loss: 4.849873805046082	Cla_Loss: 3.77146977186203	Con_Loss: 1.0784040397964418	Cla_top1_acc: 35.22	Con_top1_acc:80.5	Cla_top5_acc: 57.56	Con_top5_acc: 91.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.037749290466309	Loss: 3.7680475413799286	Cla_Loss: 2.869897186756134	Con_Loss: 0.8981503603979946	Cla_top1_acc: 43.81	Con_top1_acc:84.21	Cla_top5_acc: 69.02	Con_top5_acc: 93.725
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.970256567001343	Loss: 7.014547610282898	Cla_Loss: 5.38014178276062	Con_Loss: 1.6344058416783809	Cla_top1_acc: 21.38	Con_top1_acc:71.36	Cla_top5_acc: 42.7	Con_top5_acc: 86.3
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.607923984527588	Loss: 5.476608741283417	Cla_Loss: 4.301105159521103	Con_Loss: 1.1755035735666752	Cla_top1_acc: 30.96	Con_top1_acc:78.425	Cla_top5_acc: 51.97	Con_top5_acc: 90.405
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.355217456817627	Loss: 6.539350688457489	Cla_Loss: 4.97126579284668	Con_Loss: 1.568084902316332	Cla_top1_acc: 24.26	Con_top1_acc:71.755	Cla_top5_acc: 46.5	Con_top5_acc: 87.315
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.904852390289307	Loss: 5.067943686246872	Cla_Loss: 3.9108758091926576	Con_Loss: 1.1570678796619176	Cla_top1_acc: 32.85	Con_top1_acc:79.325	Cla_top5_acc: 54.68	Con_top5_acc: 90.59
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.925251722335815	Loss: 7.303441607952118	Cla_Loss: 5.477731740474701	Con_Loss: 1.8257098659873008	Cla_top1_acc: 20.13	Con_top1_acc:68.475	Cla_top5_acc: 40.27	Con_top5_acc: 84.065
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9382078647613525	Loss: 5.608937430381775	Cla_Loss: 4.327995258569717	Con_Loss: 1.2809421584010123	Cla_top1_acc: 31.04	Con_top1_acc:78.385	Cla_top5_acc: 51.88	Con_top5_acc: 89.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.386404037475586	Loss: 4.737564766407013	Cla_Loss: 3.6858879745006563	Con_Loss: 1.05167680606246	Cla_top1_acc: 35.94	Con_top1_acc:82.42	Cla_top5_acc: 59.75	Con_top5_acc: 92.355
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.917846202850342	Loss: 4.751975655555725	Cla_Loss: 3.6539512157440184	Con_Loss: 1.098024413920939	Cla_top1_acc: 36.59	Con_top1_acc:81.35	Cla_top5_acc: 59.49	Con_top5_acc: 91.62
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.841305732727051	Loss: 5.518477094173432	Cla_Loss: 4.3139357447624205	Con_Loss: 1.204541376978159	Cla_top1_acc: 29.01	Con_top1_acc:79.41	Cla_top5_acc: 49.21	Con_top5_acc: 90.58
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.206826686859131	Loss: 3.672669318318367	Cla_Loss: 2.7952881544828414	Con_Loss: 0.8773811835795641	Cla_top1_acc: 45.28	Con_top1_acc:84.805	Cla_top5_acc: 70.01	Con_top5_acc: 94.01
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.053272724151611	Loss: 5.57211394906044	Cla_Loss: 4.377520483732224	Con_Loss: 1.1945934619754552	Cla_top1_acc: 29.61	Con_top1_acc:79.18	Cla_top5_acc: 49.7	Con_top5_acc: 90.7
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.022535800933838	Loss: 5.8043947458267215	Cla_Loss: 4.643637573719024	Con_Loss: 1.160757192224264	Cla_top1_acc: 27.38	Con_top1_acc:80.725	Cla_top5_acc: 46.84	Con_top5_acc: 91.99
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.027207374572754	Loss: 8.476213574409485	Cla_Loss: 6.331013810634613	Con_Loss: 2.1451997250318526	Cla_top1_acc: 14.67	Con_top1_acc:61.5	Cla_top5_acc: 29.88	Con_top5_acc: 78.465
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.00359845161438	Loss: 5.456593668460846	Cla_Loss: 4.286357325315476	Con_Loss: 1.1702363580465316	Cla_top1_acc: 30.96	Con_top1_acc:79.11	Cla_top5_acc: 51.97	Con_top5_acc: 90.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.070637941360474	Loss: 7.124299967288971	Cla_Loss: 5.47783215045929	Con_Loss: 1.6464677892625332	Cla_top1_acc: 21.41	Con_top1_acc:71.415	Cla_top5_acc: 41.21	Con_top5_acc: 86.395
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.918004751205444	Loss: 8.279761505126952	Cla_Loss: 6.123896610736847	Con_Loss: 2.155864913761616	Cla_top1_acc: 17.04	Con_top1_acc:60.62	Cla_top5_acc: 35.51	Con_top5_acc: 77.4
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.930212497711182	Loss: 8.60712946653366	Cla_Loss: 6.334544014930725	Con_Loss: 2.2725854888558388	Cla_top1_acc: 16.08	Con_top1_acc:58.785	Cla_top5_acc: 32.8	Con_top5_acc: 76.09
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.591504096984863	Loss: 4.8623282492160795	Cla_Loss: 3.76296871304512	Con_Loss: 1.0993595600128174	Cla_top1_acc: 35.53	Con_top1_acc:80.21	Cla_top5_acc: 57.98	Con_top5_acc: 91.53
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.173081398010254	Loss: 8.122067713737488	Cla_Loss: 6.0531336784362795	Con_Loss: 2.0689339943230154	Cla_top1_acc: 16.95	Con_top1_acc:61.4	Cla_top5_acc: 34.91	Con_top5_acc: 79.235
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.90976357460022	Loss: 6.709632122516632	Cla_Loss: 4.874214434623719	Con_Loss: 1.8354176864027978	Cla_top1_acc: 24.03	Con_top1_acc:67.615	Cla_top5_acc: 47.09	Con_top5_acc: 83.5
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.013282060623169	Loss: 5.107256090641021	Cla_Loss: 3.975269412994385	Con_Loss: 1.131986702233553	Cla_top1_acc: 33.23	Con_top1_acc:79.825	Cla_top5_acc: 55.71	Con_top5_acc: 91.33
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.363185405731201	Loss: 5.711711478233338	Cla_Loss: 4.5680024266242985	Con_Loss: 1.1437090769410134	Cla_top1_acc: 28.11	Con_top1_acc:80.665	Cla_top5_acc: 46.99	Con_top5_acc: 91.665
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.057345390319824	Loss: 6.913869023323059	Cla_Loss: 4.9629399061203	Con_Loss: 1.950929155945778	Cla_top1_acc: 24.39	Con_top1_acc:64.77	Cla_top5_acc: 46.04	Con_top5_acc: 81.13
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.163745641708374	Loss: 7.094889545440674	Cla_Loss: 5.393761539459229	Con_Loss: 1.7011279955506324	Cla_top1_acc: 20.67	Con_top1_acc:68.48	Cla_top5_acc: 42.21	Con_top5_acc: 85.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.0631489753723145	Loss: 4.8747329950332645	Cla_Loss: 3.77541640996933	Con_Loss: 1.0993165977299213	Cla_top1_acc: 35.53	Con_top1_acc:79.975	Cla_top5_acc: 57.98	Con_top5_acc: 91.385
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.014339923858643	Loss: 6.733776390552521	Cla_Loss: 5.202504742145538	Con_Loss: 1.5312716472893952	Cla_top1_acc: 21.17	Con_top1_acc:73.665	Cla_top5_acc: 41.82	Con_top5_acc: 88.16
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.930911302566528	Loss: 8.5788982629776	Cla_Loss: 6.357191693782807	Con_Loss: 2.221706564724445	Cla_top1_acc: 14.43	Con_top1_acc:58.86	Cla_top5_acc: 30.32	Con_top5_acc: 76.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.945765256881714	Loss: 4.932169544696808	Cla_Loss: 3.7801993429660796	Con_Loss: 1.1519702143967152	Cla_top1_acc: 34.52	Con_top1_acc:79.225	Cla_top5_acc: 56.34	Con_top5_acc: 90.535
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.071431636810303	Loss: 7.2630082130432125	Cla_Loss: 5.355024993419647	Con_Loss: 1.9079832218587398	Cla_top1_acc: 22.14	Con_top1_acc:65.355	Cla_top5_acc: 43.83	Con_top5_acc: 81.945
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.9615607261657715	Loss: 6.975768494606018	Cla_Loss: 5.169962596893311	Con_Loss: 1.8058059331029654	Cla_top1_acc: 23.04	Con_top1_acc:67.03	Cla_top5_acc: 43.94	Con_top5_acc: 82.89
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.079793930053711	Loss: 6.453702425956726	Cla_Loss: 4.883160400390625	Con_Loss: 1.570542047172785	Cla_top1_acc: 25.21	Con_top1_acc:71.485	Cla_top5_acc: 47.59	Con_top5_acc: 87.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.014242649078369	Loss: 6.172528576850891	Cla_Loss: 4.801280212402344	Con_Loss: 1.3712483420968056	Cla_top1_acc: 26.52	Con_top1_acc:76.89	Cla_top5_acc: 45.53	Con_top5_acc: 89.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1371560096740723	Loss: 7.748239099979401	Cla_Loss: 5.807200765609741	Con_Loss: 1.9410383582115174	Cla_top1_acc: 18.52	Con_top1_acc:65.875	Cla_top5_acc: 38.27	Con_top5_acc: 82.25
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.300872564315796	Loss: 5.844002699851989	Cla_Loss: 4.68353579044342	Con_Loss: 1.1604669077321887	Cla_top1_acc: 28.09	Con_top1_acc:80.7	Cla_top5_acc: 47.33	Con_top5_acc: 91.25
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.332460880279541	Loss: 5.040328121185302	Cla_Loss: 3.9235392034053804	Con_Loss: 1.1167889207601547	Cla_top1_acc: 33.23	Con_top1_acc:80.585	Cla_top5_acc: 55.71	Con_top5_acc: 91.515
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.926831960678101	Loss: 4.887510877847672	Cla_Loss: 3.815667974948883	Con_Loss: 1.0718428758904337	Cla_top1_acc: 34.03	Con_top1_acc:82.965	Cla_top5_acc: 57.06	Con_top5_acc: 92.99
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.038007974624634	Loss: 5.655307495594025	Cla_Loss: 4.479134064912796	Con_Loss: 1.1761734103783965	Cla_top1_acc: 28.46	Con_top1_acc:80.17	Cla_top5_acc: 47.93	Con_top5_acc: 91.2
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8658413887023926	Loss: 7.205824184417724	Cla_Loss: 5.2869056224822994	Con_Loss: 1.918918564915657	Cla_top1_acc: 22.14	Con_top1_acc:65.135	Cla_top5_acc: 43.83	Con_top5_acc: 81.705
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.957141160964966	Loss: 6.760052335262299	Cla_Loss: 5.162545019388199	Con_Loss: 1.5975073214620352	Cla_top1_acc: 21.93	Con_top1_acc:70.24	Cla_top5_acc: 43.16	Con_top5_acc: 86.85
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.976912975311279	Loss: 4.312769335508347	Cla_Loss: 3.2869863867759705	Con_Loss: 1.0257829330861568	Cla_top1_acc: 39.91	Con_top1_acc:81.085	Cla_top5_acc: 64.07	Con_top5_acc: 91.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.777498006820679	Loss: 6.982198286056518	Cla_Loss: 5.176983737945557	Con_Loss: 1.805214563012123	Cla_top1_acc: 23.04	Con_top1_acc:67.78	Cla_top5_acc: 43.94	Con_top5_acc: 83.49
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.943984270095825	Loss: 5.199928939342499	Cla_Loss: 4.054525780677795	Con_Loss: 1.1454031445086001	Cla_top1_acc: 32.55	Con_top1_acc:79.83	Cla_top5_acc: 55.02	Con_top5_acc: 91.11
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.974931240081787	Loss: 8.437937343120575	Cla_Loss: 6.0686267733573915	Con_Loss: 2.369310573488474	Cla_top1_acc: 15.9	Con_top1_acc:56.525	Cla_top5_acc: 31.75	Con_top5_acc: 73.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 17.364697694778442	Loss: 2.327809082947189	Cla_Loss: 2.0480815510955646	Con_Loss: 0.2797275349604998	Cla_top1_acc: 54.94999798583984	Con_top1_acc:94.06499651489258	Cla_top5_acc: 79.28999619598389	Con_top5_acc: 98.82999873657226
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.912819862365723	Loss: 2.6794327548939547	Cla_Loss: 2.325022728323079	Con_Loss: 0.35441003471827337	Cla_top1_acc: 49.34999810409546	Con_top1_acc:92.28499643859864	Cla_top5_acc: 75.10999658660889	Con_top5_acc: 98.25499836120605
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.89510178565979	Loss: 2.9912307056591665	Cla_Loss: 2.4449386026361863	Con_Loss: 0.5462920980916607	Cla_top1_acc: 45.789998189544676	Con_top1_acc:87.29999656982422	Cla_top5_acc: 72.23999702301025	Con_top5_acc: 96.29499718017578
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.470978260040283	Loss: 4.654462642806897	Cla_Loss: 3.2231088130594157	Con_Loss: 1.4313538265314034	Cla_top1_acc: 32.559998554229736	Con_top1_acc:67.59499727935791	Cla_top5_acc: 59.84999781799316	Con_top5_acc: 84.64499686279296
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.434560060501099	Loss: 7.303127585555152	Cla_Loss: 4.14829366584476	Con_Loss: 3.154833917995151	Cla_top1_acc: 17.70999922943115	Con_top1_acc:37.45999851074219	Cla_top5_acc: 39.03999844207764	Con_top5_acc: 58.199997706604
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.808106184005737	Loss: 2.006694874317526	Cla_Loss: 1.8067925870418549	Con_Loss: 0.1999022893795221	Cla_top1_acc: 60.57999749298096	Con_top1_acc:95.94999732666015	Cla_top5_acc: 83.27999598388672	Con_top5_acc: 99.33999924926758
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.893504619598389	Loss: 2.222507488384521	Cla_Loss: 1.9381582844171592	Con_Loss: 0.28434921257037055	Cla_top1_acc: 55.54999799346924	Con_top1_acc:93.69499667053222	Cla_top5_acc: 79.25999617462158	Con_top5_acc: 98.41499862365723
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.856638431549072	Loss: 2.487764173274418	Cla_Loss: 2.0952704330142455	Con_Loss: 0.3924937394829534	Cla_top1_acc: 51.619998014831545	Con_top1_acc:91.07499636230469	Cla_top5_acc: 76.1799965270996	Con_top5_acc: 96.96999770202636
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.9872260093688965	Loss: 2.83424102959873	Cla_Loss: 2.279152992389185	Con_Loss: 0.555088037289947	Cla_top1_acc: 47.63999815979004	Con_top1_acc:87.49999673156738	Cla_top5_acc: 73.50999699707032	Con_top5_acc: 95.08999718322754
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.63394570350647	Loss: 3.2697559903851516	Cla_Loss: 2.4885628703686833	Con_Loss: 0.781193125644605	Cla_top1_acc: 43.69999830474853	Con_top1_acc:82.8649966583252	Cla_top5_acc: 70.25999709320068	Con_top5_acc: 91.99499640808105
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.811135292053223	Loss: 2.2517115409425696	Cla_Loss: 2.018095947855668	Con_Loss: 0.23361558879879737	Cla_top1_acc: 56.91999772186279	Con_top1_acc:95.15499673156738	Cla_top5_acc: 80.31999608459472	Con_top5_acc: 99.05999885253907
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.869770050048828	Loss: 2.672164197448346	Cla_Loss: 2.389366549553631	Con_Loss: 0.2827976489131399	Cla_top1_acc: 50.53999812011719	Con_top1_acc:93.96999671020508	Cla_top5_acc: 75.69999669342042	Con_top5_acc: 98.73999861755371
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.926961183547974	Loss: 3.1806757257139084	Cla_Loss: 2.822085376694906	Con_Loss: 0.3585903478665746	Cla_top1_acc: 44.249998264312744	Con_top1_acc:92.50999657592773	Cla_top5_acc: 69.6299975189209	Con_top5_acc: 98.38999857482911
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.81581425666809	Loss: 3.680777131224708	Cla_Loss: 3.265198697289117	Con_Loss: 0.415578434605607	Cla_top1_acc: 37.54999853439331	Con_top1_acc:91.30999655761718	Cla_top5_acc: 63.43999751586914	Con_top5_acc: 98.07499797058105
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.7017502784729	Loss: 4.148218902752554	Cla_Loss: 3.6390319925418004	Con_Loss: 0.5091869094603353	Cla_top1_acc: 32.65999864006042	Con_top1_acc:89.30999648742676	Cla_top5_acc: 57.94999780578613	Con_top5_acc: 97.46999752502441
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.426011800765991	Loss: 1.9674174914257132	Cla_Loss: 1.7568159154850802	Con_Loss: 0.21060157900930737	Cla_top1_acc: 61.589997637939454	Con_top1_acc:95.60499718933106	Cla_top5_acc: 84.39999595947266	Con_top5_acc: 99.09999914855958
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.681895732879639	Loss: 2.0528129476437464	Cla_Loss: 1.8348207518779973	Con_Loss: 0.21799219900862776	Cla_top1_acc: 59.96999766540527	Con_top1_acc:95.44499700927734	Cla_top5_acc: 83.45999608154297	Con_top5_acc: 99.08499909362793
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.011974096298218	Loss: 2.2726366211184494	Cla_Loss: 2.022039161526042	Con_Loss: 0.2505974561619244	Cla_top1_acc: 56.62999768371582	Con_top1_acc:94.71499661254883	Cla_top5_acc: 80.55999615783692	Con_top5_acc: 99.0149988861084
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.016349077224731	Loss: 2.489772564644436	Cla_Loss: 2.200711841205899	Con_Loss: 0.2890607274586348	Cla_top1_acc: 53.429997957611086	Con_top1_acc:93.74499664611817	Cla_top5_acc: 78.15999630889893	Con_top5_acc: 98.70999873657226
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.02440357208252	Loss: 2.6150051256735547	Cla_Loss: 2.273777722025947	Con_Loss: 0.3412274117146036	Cla_top1_acc: 50.969998106384274	Con_top1_acc:92.47999656677246	Cla_top5_acc: 76.33999633483887	Con_top5_acc: 98.29499836730957
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.358367919921875	Loss: 2.117866665768109	Cla_Loss: 1.8826757671592904	Con_Loss: 0.23519089249827022	Cla_top1_acc: 59.029997746276855	Con_top1_acc:95.36999696655273	Cla_top5_acc: 82.24999619140625	Con_top5_acc: 98.91499891357422
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.631749153137207	Loss: 2.832154090884778	Cla_Loss: 2.5224614503572313	Con_Loss: 0.3096926460752813	Cla_top1_acc: 48.619998197937015	Con_top1_acc:93.66999658508301	Cla_top5_acc: 73.88999711151124	Con_top5_acc: 98.39499831542969
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.841871500015259	Loss: 3.947926337770421	Cla_Loss: 3.4750228288362353	Con_Loss: 0.47290351595595587	Cla_top1_acc: 35.58999842567444	Con_top1_acc:90.30499641723632	Cla_top5_acc: 60.96999755706787	Con_top5_acc: 97.2649976196289
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.3654704093933105	Loss: 4.858495922397367	Cla_Loss: 4.223521206876357	Con_Loss: 0.6349747110721019	Cla_top1_acc: 27.29999886646271	Con_top1_acc:87.02999647521973	Cla_top5_acc: 50.629998136138916	Con_top5_acc: 96.13499732055664
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.515853643417358	Loss: 5.751954015210378	Cla_Loss: 4.926582555976703	Con_Loss: 0.8253714725267973	Cla_top1_acc: 20.639999156951905	Con_top1_acc:82.70499664611816	Cla_top5_acc: 41.43999837646484	Con_top5_acc: 94.23499640502929
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.466596126556396	Loss: 2.6654900681200644	Cla_Loss: 2.3537936832407396	Con_Loss: 0.3116963874789879	Cla_top1_acc: 51.149998089599606	Con_top1_acc:93.40999656677246	Cla_top5_acc: 76.39999659118652	Con_top5_acc: 98.41499852294922
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.338486433029175	Loss: 3.2276257593854725	Cla_Loss: 2.8473427329989645	Con_Loss: 0.38028302641330863	Cla_top1_acc: 43.739998303222656	Con_top1_acc:92.10499663391113	Cla_top5_acc: 69.08999736785889	Con_top5_acc: 97.98999798583985
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.21534514427185	Loss: 3.9234113007140676	Cla_Loss: 3.4332934352133773	Con_Loss: 0.4901178650182786	Cla_top1_acc: 36.75999856109619	Con_top1_acc:89.64999626464844	Cla_top5_acc: 61.579997526550294	Con_top5_acc: 97.17999782104492
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.601709365844727	Loss: 4.592112340515466	Cla_Loss: 3.989087843208862	Con_Loss: 0.603024504274773	Cla_top1_acc: 30.40999863395691	Con_top1_acc:87.55999682922364	Cla_top5_acc: 53.919997953033445	Con_top5_acc: 96.49999735717773
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.395864963531494	Loss: 5.275557842186029	Cla_Loss: 4.53722512293205	Con_Loss: 0.738332713679444	Cla_top1_acc: 24.73999895324707	Con_top1_acc:84.68999657287597	Cla_top5_acc: 47.299998162841796	Con_top5_acc: 95.23499695739746
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.315920352935791	Loss: 1.9135601741375683	Cla_Loss: 1.7209511519336014	Con_Loss: 0.19260902212356493	Cla_top1_acc: 62.399997633361814	Con_top1_acc:96.2099973602295	Cla_top5_acc: 84.46999595031738	Con_top5_acc: 99.28499913635254
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.955881118774414	Loss: 2.1636967543217778	Cla_Loss: 1.94021157030579	Con_Loss: 0.2234851782940489	Cla_top1_acc: 58.55999774169922	Con_top1_acc:95.47499697265626	Cla_top5_acc: 81.50999598083496	Con_top5_acc: 99.08499898986817
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.633606910705566	Loss: 2.125078278265411	Cla_Loss: 1.9012896180581704	Con_Loss: 0.2237886594434222	Cla_top1_acc: 58.65999776153564	Con_top1_acc:95.4349968170166	Cla_top5_acc: 82.08999612121582	Con_top5_acc: 98.95999889526367
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.22004246711731	Loss: 2.116136015319138	Cla_Loss: 1.8824404698910473	Con_Loss: 0.2336955476793454	Cla_top1_acc: 58.289997688293454	Con_top1_acc:94.92499691772461	Cla_top5_acc: 81.67999598999023	Con_top5_acc: 99.00999892883301
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.599568367004395	Loss: 2.290674501614605	Cla_Loss: 2.027808779006382	Con_Loss: 0.2628657232246382	Cla_top1_acc: 55.7799978225708	Con_top1_acc:94.31499681396484	Cla_top5_acc: 79.80999593811035	Con_top5_acc: 98.72999870605469
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.587085247039795	Loss: 3.0340340424784653	Cla_Loss: 2.712414148471338	Con_Loss: 0.3216198799903873	Cla_top1_acc: 46.5299982460022	Con_top1_acc:93.51499659729004	Cla_top5_acc: 71.7899970703125	Con_top5_acc: 98.58499834594727
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.84338665008545	Loss: 3.2320052788411973	Cla_Loss: 2.8879611865222024	Con_Loss: 0.34404408411799575	Cla_top1_acc: 43.44999828948975	Con_top1_acc:92.78499653625488	Cla_top5_acc: 68.68999718780518	Con_top5_acc: 98.37499851989746
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.93614673614502	Loss: 3.827509462404594	Cla_Loss: 3.3758166342330496	Con_Loss: 0.451692825169872	Cla_top1_acc: 34.49999838867188	Con_top1_acc:90.17499659423828	Cla_top5_acc: 59.859997619628906	Con_top5_acc: 97.33999770507812
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.094718217849731	Loss: 5.06216805530109	Cla_Loss: 4.393251752681869	Con_Loss: 0.6689163162339505	Cla_top1_acc: 21.76999913444519	Con_top1_acc:85.13499645385743	Cla_top5_acc: 44.03999822845459	Con_top5_acc: 95.60499700622559
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.199966907501221	Loss: 5.986740508525491	Cla_Loss: 4.95197417838968	Con_Loss: 1.034766331207838	Cla_top1_acc: 14.199999348449706	Con_top1_acc:77.17499676361084	Cla_top5_acc: 32.189998720550534	Con_top5_acc: 90.78499668579101
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.558345794677734	Loss: 2.234402066083263	Cla_Loss: 2.020463472862038	Con_Loss: 0.21393858841050872	Cla_top1_acc: 56.58999785308838	Con_top1_acc:95.71999711914063	Cla_top5_acc: 79.67999598846436	Con_top5_acc: 99.12999907531739
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.079013347625732	Loss: 2.1847856336360354	Cla_Loss: 1.9556717585316665	Con_Loss: 0.22911387278611284	Cla_top1_acc: 57.50999775238037	Con_top1_acc:95.23499703063965	Cla_top5_acc: 81.15999611206054	Con_top5_acc: 98.85999893798828
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.086484909057617	Loss: 2.269838683896785	Cla_Loss: 2.028541440586392	Con_Loss: 0.24129724174255518	Cla_top1_acc: 55.51999778518677	Con_top1_acc:94.86499676818848	Cla_top5_acc: 79.9599961303711	Con_top5_acc: 98.8649989074707
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.986281871795654	Loss: 2.7837745843173787	Cla_Loss: 2.492627280650379	Con_Loss: 0.29114730339899336	Cla_top1_acc: 48.299998052978516	Con_top1_acc:93.66999689331055	Cla_top5_acc: 72.9699970916748	Con_top5_acc: 98.499998727417
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.602227687835693	Loss: 3.690612116305948	Cla_Loss: 3.3132520712536873	Con_Loss: 0.37736004395343414	Cla_top1_acc: 37.70999835891724	Con_top1_acc:91.969996383667	Cla_top5_acc: 62.09999750061035	Con_top5_acc: 98.16499830932617
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.666998624801636	Loss: 2.0408569525042886	Cla_Loss: 1.8348808436513804	Con_Loss: 0.20597610630684618	Cla_top1_acc: 59.84999777984619	Con_top1_acc:95.86999698181152	Cla_top5_acc: 82.90999590148925	Con_top5_acc: 99.2349991760254
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.360612630844116	Loss: 2.4090272209627166	Cla_Loss: 2.1367604340151916	Con_Loss: 0.2722667891987794	Cla_top1_acc: 54.10999797821045	Con_top1_acc:94.51499647827148	Cla_top5_acc: 78.59999603576661	Con_top5_acc: 98.85999885559082
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.513868808746338	Loss: 2.9813190883012126	Cla_Loss: 2.601333536261277	Con_Loss: 0.3799855497082789	Cla_top1_acc: 46.90999810333252	Con_top1_acc:92.76999629211426	Cla_top5_acc: 72.51999704589844	Con_top5_acc: 98.21499826965332
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.213390588760376	Loss: 4.5587309238722	Cla_Loss: 3.789366028291716	Con_Loss: 0.7693648975101306	Cla_top1_acc: 31.409998638916015	Con_top1_acc:85.18999669494629	Cla_top5_acc: 56.5899978225708	Con_top5_acc: 95.18999683532715
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.2064208984375	Loss: 6.523300368151219	Cla_Loss: 5.19658398799759	Con_Loss: 1.3267163880866208	Cla_top1_acc: 18.36999924430847	Con_top1_acc:74.02999687042237	Cla_top5_acc: 40.17999839019775	Con_top5_acc: 89.26999637451172
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.788631439208984	Loss: 1.9318418757949802	Cla_Loss: 1.7133894054580936	Con_Loss: 0.21845247695664707	Cla_top1_acc: 62.48999752044678	Con_top1_acc:95.55999710388184	Cla_top5_acc: 84.68999603118897	Con_top5_acc: 99.21999924621582
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.314460754394531	Loss: 2.1491609614530054	Cla_Loss: 1.8833219848519607	Con_Loss: 0.26583898012533036	Cla_top1_acc: 59.38999774169922	Con_top1_acc:94.52499674987793	Cla_top5_acc: 82.16999605712891	Con_top5_acc: 98.96999891662598
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.967711925506592	Loss: 2.5938194715719427	Cla_Loss: 2.214151834841255	Con_Loss: 0.379667640563181	Cla_top1_acc: 53.659998066711424	Con_top1_acc:91.98499667053223	Cla_top5_acc: 78.19999625854493	Con_top5_acc: 98.02499824829101
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.653756618499756	Loss: 3.3008046819151735	Cla_Loss: 2.770775447646491	Con_Loss: 0.5300292312134084	Cla_top1_acc: 45.17999832382202	Con_top1_acc:88.67999670715332	Cla_top5_acc: 71.10999722747803	Con_top5_acc: 96.96999761047363
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.89846396446228	Loss: 4.265252165657153	Cla_Loss: 3.4909365996182395	Con_Loss: 0.7743155655029009	Cla_top1_acc: 35.61999849357605	Con_top1_acc:83.33499674224853	Cla_top5_acc: 61.799997619628904	Con_top5_acc: 94.49999681091309
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.900889158248901	Loss: 2.1157046976706964	Cla_Loss: 1.9089255315794362	Con_Loss: 0.20677917110298177	Cla_top1_acc: 59.72999783782959	Con_top1_acc:95.93499722595215	Cla_top5_acc: 82.24999584350586	Con_top5_acc: 99.22499922790527
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.013067483901978	Loss: 2.6160250610584836	Cla_Loss: 2.322111796560905	Con_Loss: 0.29391326782085914	Cla_top1_acc: 51.789998148345944	Con_top1_acc:94.09999653930664	Cla_top5_acc: 77.59999644775391	Con_top5_acc: 98.78499891967773
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.861685037612915	Loss: 3.254173925454668	Cla_Loss: 2.838785328882204	Con_Loss: 0.41538860225420204	Cla_top1_acc: 44.20999819946289	Con_top1_acc:91.564996484375	Cla_top5_acc: 70.49999750976562	Con_top5_acc: 98.08999809875488
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.993169069290161	Loss: 3.039244072471591	Cla_Loss: 2.6662690180668727	Con_Loss: 0.37297505598595676	Cla_top1_acc: 46.35999827194214	Con_top1_acc:92.63499645690918	Cla_top5_acc: 72.09999719390869	Con_top5_acc: 98.23999817199707
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.044477224349976	Loss: 3.4036642977659652	Cla_Loss: 2.964769800361112	Con_Loss: 0.4388944967080363	Cla_top1_acc: 41.80999823379516	Con_top1_acc:91.1349964263916	Cla_top5_acc: 68.08999754943848	Con_top5_acc: 97.75499792785645
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.22864294052124	Loss: 2.314006924200401	Cla_Loss: 2.0748880707102715	Con_Loss: 0.2391188529809173	Cla_top1_acc: 55.90999792938232	Con_top1_acc:95.14499709472656	Cla_top5_acc: 80.1999959777832	Con_top5_acc: 99.0599990814209
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.091793537139893	Loss: 2.7813699978718653	Cla_Loss: 2.4764552326511136	Con_Loss: 0.3049147724837279	Cla_top1_acc: 49.369998130798336	Con_top1_acc:93.87999666442872	Cla_top5_acc: 74.61999662475586	Con_top5_acc: 98.50499843139649
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.553712844848633	Loss: 4.200417402836917	Cla_Loss: 3.678458274697228	Con_Loss: 0.5219591301765373	Cla_top1_acc: 33.639998540496826	Con_top1_acc:89.119996484375	Cla_top5_acc: 58.12999778289795	Con_top5_acc: 97.12499768066407
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.541337251663208	Loss: 5.46181907670961	Cla_Loss: 4.699234115991661	Con_Loss: 0.7625849705805882	Cla_top1_acc: 23.239999058151245	Con_top1_acc:84.05999662475585	Cla_top5_acc: 45.189998207855226	Con_top5_acc: 95.01999695739747
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.753424882888794	Loss: 7.356558009017285	Cla_Loss: 6.061337083363704	Con_Loss: 1.2952209085011654	Cla_top1_acc: 12.229999478816985	Con_top1_acc:72.50499684448242	Cla_top5_acc: 28.479998765945435	Con_top5_acc: 89.54499638061523
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.001700401306152	Loss: 2.543735544029757	Cla_Loss: 2.3064032136965142	Con_Loss: 0.2373323294354214	Cla_top1_acc: 52.289997970581055	Con_top1_acc:95.00499696044922	Cla_top5_acc: 77.09999639892578	Con_top5_acc: 99.0199989868164
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.146647930145264	Loss: 2.999049230445203	Cla_Loss: 2.7258466778041646	Con_Loss: 0.273202559555606	Cla_top1_acc: 46.179998196411134	Con_top1_acc:93.97999676208497	Cla_top5_acc: 71.7999971786499	Con_top5_acc: 98.6799986907959
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.066434144973755	Loss: 2.202482397178952	Cla_Loss: 1.9733046717780958	Con_Loss: 0.22917772170236642	Cla_top1_acc: 58.43999767303467	Con_top1_acc:95.14499672851562	Cla_top5_acc: 81.54999586486817	Con_top5_acc: 99.10499882507324
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.530821084976196	Loss: 3.307613383094184	Cla_Loss: 2.894297905105481	Con_Loss: 0.4133154793823366	Cla_top1_acc: 44.49999833908081	Con_top1_acc:91.13499624328614	Cla_top5_acc: 69.51999721374511	Con_top5_acc: 97.8399979675293
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.5592520236969	Loss: 4.653690058550389	Cla_Loss: 3.976321187808359	Con_Loss: 0.6773688727788788	Cla_top1_acc: 33.04999856681824	Con_top1_acc:84.80499657287598	Cla_top5_acc: 56.37999781188965	Con_top5_acc: 95.44999675292969
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.866927146911621	Loss: 2.2833128460019614	Cla_Loss: 2.0169721387273114	Con_Loss: 0.26634070408537236	Cla_top1_acc: 56.509997818756105	Con_top1_acc:94.46499692077637	Cla_top5_acc: 80.71999582214356	Con_top5_acc: 98.91999880065919
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.025039434432983	Loss: 2.6617126151812163	Cla_Loss: 2.341643714647499	Con_Loss: 0.3200689050094258	Cla_top1_acc: 51.16999814453125	Con_top1_acc:93.47999697265625	Cla_top5_acc: 76.44999642791748	Con_top5_acc: 98.35499855041503
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.74048376083374	Loss: 3.1009389758110046	Cla_Loss: 2.6499734538064588	Con_Loss: 0.45096552479181357	Cla_top1_acc: 45.70999827194214	Con_top1_acc:90.23499672851563	Cla_top5_acc: 72.13999719543457	Con_top5_acc: 97.32499776000977
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.017664194107056	Loss: 3.815468329319851	Cla_Loss: 3.2315392687166336	Con_Loss: 0.5839290584591653	Cla_top1_acc: 37.829998291778566	Con_top1_acc:87.34499674987794	Cla_top5_acc: 64.22999760284424	Con_top5_acc: 96.30499745483398
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.411271572113037	Loss: 3.714957708935086	Cla_Loss: 3.0929680500956747	Con_Loss: 0.6219896611978681	Cla_top1_acc: 39.14999836502075	Con_top1_acc:86.53999666748047	Cla_top5_acc: 65.77999758300781	Con_top5_acc: 95.68499714050293
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.228471755981445	Loss: 2.2446025670003547	Cla_Loss: 1.9472109656110943	Con_Loss: 0.29739161206931947	Cla_top1_acc: 57.559997673034665	Con_top1_acc:93.89999663391113	Cla_top5_acc: 81.19999590454101	Con_top5_acc: 98.47999851074219
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.693140745162964	Loss: 2.5289482753053845	Cla_Loss: 2.164085332867053	Con_Loss: 0.36486293651538787	Cla_top1_acc: 53.18999794921875	Con_top1_acc:92.31999642944336	Cla_top5_acc: 78.25999636230469	Con_top5_acc: 97.97499829711914
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.556942462921143	Loss: 2.8009053687397523	Cla_Loss: 2.3838729858398438	Con_Loss: 0.4170323763069489	Cla_top1_acc: 50.27999808654785	Con_top1_acc:91.23999644470214	Cla_top5_acc: 75.47999670715332	Con_top5_acc: 97.38999799499511
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 8.913463354110718	Loss: 3.0963887688067318	Cla_Loss: 2.618701469126365	Con_Loss: 0.4776872934090148	Cla_top1_acc: 47.03999815597534	Con_top1_acc:89.72999654235839	Cla_top5_acc: 72.17999716186523	Con_top5_acc: 96.92999779968261
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.655259132385254	Loss: 3.5169273704933603	Cla_Loss: 2.932589908297971	Con_Loss: 0.5843374560848414	Cla_top1_acc: 43.399998343658446	Con_top1_acc:87.4299965270996	Cla_top5_acc: 68.49999752807618	Con_top5_acc: 95.92499742126465
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.93250298500061	Loss: 2.102363266962038	Cla_Loss: 1.8850813383678737	Con_Loss: 0.21728192738813462	Cla_top1_acc: 58.26999777069092	Con_top1_acc:95.47999709777832	Cla_top5_acc: 81.77999603118896	Con_top5_acc: 99.1049990234375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 11.246330738067627	Loss: 2.2282102875572316	Cla_Loss: 1.983660854023995	Con_Loss: 0.24454942897712584	Cla_top1_acc: 55.71999784698486	Con_top1_acc:94.90499670104981	Cla_top5_acc: 79.7799958557129	Con_top5_acc: 98.95999896850586
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.962397813796997	Loss: 2.415499836849652	Cla_Loss: 2.0722938964692807	Con_Loss: 0.3432059403267696	Cla_top1_acc: 52.4699980392456	Con_top1_acc:92.28999669189453	Cla_top5_acc: 76.88999629974366	Con_top5_acc: 97.6949981262207
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.84810996055603	Loss: 3.207620016533694	Cla_Loss: 2.5184031883589655	Con_Loss: 0.6892168274243101	Cla_top1_acc: 43.48999825363159	Con_top1_acc:84.62999656982421	Cla_top5_acc: 69.6199974609375	Con_top5_acc: 93.30999673156738
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.068212985992432	Loss: 3.777540362996163	Cla_Loss: 2.8327065864912897	Con_Loss: 0.9448337661062213	Cla_top1_acc: 38.11999833908081	Con_top1_acc:79.50499677581787	Cla_top5_acc: 64.17999761810303	Con_top5_acc: 90.00499649353027
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.204013586044312	Loss: 2.13097433992427	Cla_Loss: 1.9057919286566674	Con_Loss: 0.22518241414867288	Cla_top1_acc: 58.759997761535644	Con_top1_acc:95.35499714050293	Cla_top5_acc: 82.16999607543946	Con_top5_acc: 99.03499911499023
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.54557466506958	Loss: 2.5200056099205566	Cla_Loss: 2.246402133711808	Con_Loss: 0.27360347880841157	Cla_top1_acc: 52.42999805526733	Con_top1_acc:94.47999682312012	Cla_top5_acc: 77.65999630737305	Con_top5_acc: 98.72499871826172
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.72942042350769	Loss: 3.1483169395288977	Cla_Loss: 2.7867522265413682	Con_Loss: 0.36156471773124427	Cla_top1_acc: 44.77999830245972	Con_top1_acc:92.53499649047852	Cla_top5_acc: 70.18999726409912	Con_top5_acc: 98.144998046875
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.70981478691101	Loss: 3.8989026486444818	Cla_Loss: 3.4446476689345547	Con_Loss: 0.45425498115716223	Cla_top1_acc: 36.05999828224182	Con_top1_acc:90.68499649047851	Cla_top5_acc: 60.929997703552246	Con_top5_acc: 97.48499789123535
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.314442873001099	Loss: 5.388665092077186	Cla_Loss: 4.640323574594457	Con_Loss: 0.7483415116937898	Cla_top1_acc: 23.86999901790619	Con_top1_acc:84.25999664611817	Cla_top5_acc: 45.46999822692871	Con_top5_acc: 95.1999968017578
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.902633905410767	Loss: 2.4996129741771616	Cla_Loss: 2.238222128195728	Con_Loss: 0.26139084489600695	Cla_top1_acc: 52.66999797058106	Con_top1_acc:94.58999680786133	Cla_top5_acc: 77.26999631652832	Con_top5_acc: 98.77999880981446
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.074501991271973	Loss: 2.875801412750491	Cla_Loss: 2.561208732694173	Con_Loss: 0.31459267300774724	Cla_top1_acc: 46.84999815368652	Con_top1_acc:93.2999966644287	Cla_top5_acc: 72.10999691772462	Con_top5_acc: 98.36999851379394
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.553802967071533	Loss: 3.4226665355318744	Cla_Loss: 3.020236155540823	Con_Loss: 0.4024303802054563	Cla_top1_acc: 40.44999836807251	Con_top1_acc:90.99999677429199	Cla_top5_acc: 65.29999750366211	Con_top5_acc: 97.8749979095459
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 10.408875703811646	Loss: 4.306812664587721	Cla_Loss: 3.7462079808008757	Con_Loss: 0.5606046851804788	Cla_top1_acc: 31.719998680114745	Con_top1_acc:87.16499656066894	Cla_top5_acc: 54.70999801940918	Con_top5_acc: 96.29999707641602
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.485836744308472	Loss: 5.068001844900118	Cla_Loss: 4.31796875617487	Con_Loss: 0.7500330848659543	Cla_top1_acc: 25.21999899864197	Con_top1_acc:83.3499965209961	Cla_top5_acc: 46.79999830551147	Con_top5_acc: 93.96999646606446
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.686694622039795	Loss: 14.023600769042968	Cla_Loss: 9.029243993759156	Con_Loss: 4.9943568110466	Cla_top1_acc: 1.01	Con_top1_acc:15.96	Cla_top5_acc: 4.94	Con_top5_acc: 26.375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.155177354812622	Loss: 14.345288276672363	Cla_Loss: 9.062660217285156	Con_Loss: 5.282628089189529	Cla_top1_acc: 0.84	Con_top1_acc:12.045	Cla_top5_acc: 3.88	Con_top5_acc: 21.145
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.018839120864868	Loss: 14.686870241165161	Cla_Loss: 8.796843767166138	Con_Loss: 5.8900264501571655	Cla_top1_acc: 0.6	Con_top1_acc:4.71	Cla_top5_acc: 3.08	Con_top5_acc: 10.27
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1451876163482666	Loss: 14.707617855072021	Cla_Loss: 8.059374356269837	Con_Loss: 6.648243474960327	Cla_top1_acc: 0.67	Con_top1_acc:0.17	Cla_top5_acc: 2.76	Con_top5_acc: 0.7
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2670767307281494	Loss: 14.724408674240113	Cla_Loss: 8.055650675296784	Con_Loss: 6.668758058547974	Cla_top1_acc: 0.49	Con_top1_acc:0.19	Cla_top5_acc: 2.49	Con_top5_acc: 0.605
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.601583480834961	Loss: 14.728521060943603	Cla_Loss: 8.769437289237976	Con_Loss: 5.959083670377732	Cla_top1_acc: 0.7	Con_top1_acc:4.24	Cla_top5_acc: 3.15	Con_top5_acc: 9.13
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6360325813293457	Loss: 13.945795488357543	Cla_Loss: 8.972003042697906	Con_Loss: 4.973792457580567	Cla_top1_acc: 1.12	Con_top1_acc:15.955	Cla_top5_acc: 4.99	Con_top5_acc: 26.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.167861461639404	Loss: 14.757815861701966	Cla_Loss: 8.866062355041503	Con_Loss: 5.891753548383713	Cla_top1_acc: 0.56	Con_top1_acc:4.795	Cla_top5_acc: 2.93	Con_top5_acc: 9.91
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9258384704589844	Loss: 14.68838186264038	Cla_Loss: 8.04766252040863	Con_Loss: 6.640719318389893	Cla_top1_acc: 0.52	Con_top1_acc:0.205	Cla_top5_acc: 2.62	Con_top5_acc: 0.715
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6462230682373047	Loss: 14.671162414550782	Cla_Loss: 8.010658764839173	Con_Loss: 6.660503613948822	Cla_top1_acc: 0.71	Con_top1_acc:0.22	Cla_top5_acc: 2.63	Con_top5_acc: 0.68
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.590174436569214	Loss: 13.954304456710815	Cla_Loss: 8.986839008331298	Con_Loss: 4.96746541261673	Cla_top1_acc: 1.04	Con_top1_acc:16.235	Cla_top5_acc: 4.86	Con_top5_acc: 26.925
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5159263610839844	Loss: 14.0176367521286	Cla_Loss: 9.03122661113739	Con_Loss: 4.986410158872604	Cla_top1_acc: 1.21	Con_top1_acc:15.625	Cla_top5_acc: 4.93	Con_top5_acc: 26.05
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.62711238861084	Loss: 6.184078896045685	Cla_Loss: 4.779168891906738	Con_Loss: 1.4049100294709205	Cla_top1_acc: 27.15	Con_top1_acc:75.55	Cla_top5_acc: 47.01	Con_top5_acc: 88.26
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.037907361984253	Loss: 5.815012812614441	Cla_Loss: 4.632231843471527	Con_Loss: 1.1827809885144234	Cla_top1_acc: 27.64	Con_top1_acc:80.465	Cla_top5_acc: 47.12	Con_top5_acc: 91.185
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2532498836517334	Loss: 8.185374391078948	Cla_Loss: 6.002021896839142	Con_Loss: 2.183352494239807	Cla_top1_acc: 16.71	Con_top1_acc:59.905	Cla_top5_acc: 32.13	Con_top5_acc: 77.07
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7263150215148926	Loss: 3.89305437207222	Cla_Loss: 2.9749042689800262	Con_Loss: 0.9181501023471356	Cla_top1_acc: 42.9	Con_top1_acc:84.21	Cla_top5_acc: 68.46	Con_top5_acc: 93.56
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.551156759262085	Loss: 6.719604289531707	Cla_Loss: 5.197029185295105	Con_Loss: 1.5225751277059316	Cla_top1_acc: 21.16	Con_top1_acc:73.195	Cla_top5_acc: 41.85	Con_top5_acc: 88.145
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.395695924758911	Loss: 8.339595019817352	Cla_Loss: 6.211612820625305	Con_Loss: 2.1279821366071703	Cla_top1_acc: 16.62	Con_top1_acc:61.215	Cla_top5_acc: 34.62	Con_top5_acc: 78.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.0987555980682373	Loss: 5.183191120624542	Cla_Loss: 4.026061403751373	Con_Loss: 1.1571297124028206	Cla_top1_acc: 34.82	Con_top1_acc:80.25	Cla_top5_acc: 57.1	Con_top5_acc: 91.225
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.082202434539795	Loss: 4.706572455167771	Cla_Loss: 3.664035165309906	Con_Loss: 1.0425372745841741	Cla_top1_acc: 35.94	Con_top1_acc:82.64	Cla_top5_acc: 59.75	Con_top5_acc: 92.525
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4221718311309814	Loss: 4.656772762537003	Cla_Loss: 3.593774729967117	Con_Loss: 1.0629980646073818	Cla_top1_acc: 36.04	Con_top1_acc:81.63	Cla_top5_acc: 58.82	Con_top5_acc: 92.55
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9752426147460938	Loss: 4.902055561542511	Cla_Loss: 3.7961179196834562	Con_Loss: 1.105937661230564	Cla_top1_acc: 35.52	Con_top1_acc:80.225	Cla_top5_acc: 57.97	Con_top5_acc: 91.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.322998046875	Loss: 4.520807826519013	Cla_Loss: 3.4869578897953035	Con_Loss: 1.0338498920202255	Cla_top1_acc: 37.51	Con_top1_acc:82.13	Cla_top5_acc: 60.8	Con_top5_acc: 92.26
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2802412509918213	Loss: 7.124600017070771	Cla_Loss: 5.490715599060058	Con_Loss: 1.6338844045996666	Cla_top1_acc: 21.29	Con_top1_acc:71.93	Cla_top5_acc: 41.08	Con_top5_acc: 86.74
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5284664630889893	Loss: 6.781722950935364	Cla_Loss: 5.218471622467041	Con_Loss: 1.5632513113319875	Cla_top1_acc: 22.1	Con_top1_acc:73.04	Cla_top5_acc: 42.84	Con_top5_acc: 87.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.353410482406616	Loss: 6.090775752067566	Cla_Loss: 4.702971684932709	Con_Loss: 1.3878040872514248	Cla_top1_acc: 28.16	Con_top1_acc:76.015	Cla_top5_acc: 48.27	Con_top5_acc: 89.04
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.541834592819214	Loss: 7.204309606552124	Cla_Loss: 5.488059270381927	Con_Loss: 1.716250342130661	Cla_top1_acc: 19.96	Con_top1_acc:69.835	Cla_top5_acc: 39.97	Con_top5_acc: 85.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1543586254119873	Loss: 7.216807806491852	Cla_Loss: 5.272023701667786	Con_Loss: 1.9447841048240662	Cla_top1_acc: 21.27	Con_top1_acc:64.52	Cla_top5_acc: 42.36	Con_top5_acc: 81.645
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.0652694702148438	Loss: 4.706070327758789	Cla_Loss: 3.613720142841339	Con_Loss: 1.09235021173954	Cla_top1_acc: 38.18	Con_top1_acc:81.955	Cla_top5_acc: 60.65	Con_top5_acc: 91.995
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.452702760696411	Loss: 7.1792463779449465	Cla_Loss: 5.474580216407776	Con_Loss: 1.7046661958098412	Cla_top1_acc: 19.96	Con_top1_acc:69.9	Cla_top5_acc: 39.97	Con_top5_acc: 85.63
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.294262409210205	Loss: 8.167729556560516	Cla_Loss: 5.998914885520935	Con_Loss: 2.1688147097826005	Cla_top1_acc: 16.92	Con_top1_acc:59.995	Cla_top5_acc: 33.45	Con_top5_acc: 77.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.739166021347046	Loss: 4.516012024879456	Cla_Loss: 3.47976838350296	Con_Loss: 1.0362436458468438	Cla_top1_acc: 38.1	Con_top1_acc:82.025	Cla_top5_acc: 60.72	Con_top5_acc: 92.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2201857566833496	Loss: 3.9855043411254885	Cla_Loss: 3.0633840680122377	Con_Loss: 0.9221202908083797	Cla_top1_acc: 43.12	Con_top1_acc:83.78	Cla_top5_acc: 67.22	Con_top5_acc: 93.455
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5327718257904053	Loss: 8.692619454860687	Cla_Loss: 6.286544740200043	Con_Loss: 2.4060746312141417	Cla_top1_acc: 15.62	Con_top1_acc:55.39	Cla_top5_acc: 32.09	Con_top5_acc: 73.135
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.746182680130005	Loss: 8.23487823009491	Cla_Loss: 6.109026873111725	Con_Loss: 2.125851386785507	Cla_top1_acc: 15.84	Con_top1_acc:61.04	Cla_top5_acc: 32.42	Con_top5_acc: 78.525
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9504785537719727	Loss: 5.365130209922791	Cla_Loss: 4.2266703128814695	Con_Loss: 1.1384598761796951	Cla_top1_acc: 31.0	Con_top1_acc:80.5	Cla_top5_acc: 51.24	Con_top5_acc: 91.575
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.749363899230957	Loss: 8.663197207450867	Cla_Loss: 6.559351336956024	Con_Loss: 2.1038458183407784	Cla_top1_acc: 15.16	Con_top1_acc:62.91	Cla_top5_acc: 31.34	Con_top5_acc: 79.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.292517185211182	Loss: 4.904378831386566	Cla_Loss: 3.7995671808719633	Con_Loss: 1.1048116609454155	Cla_top1_acc: 35.52	Con_top1_acc:79.895	Cla_top5_acc: 57.97	Con_top5_acc: 91.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.068912982940674	Loss: 4.501609444618225	Cla_Loss: 3.5013125121593474	Con_Loss: 1.0002968803048133	Cla_top1_acc: 38.45	Con_top1_acc:83.075	Cla_top5_acc: 60.79	Con_top5_acc: 93.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.0138750076293945	Loss: 4.171005618572235	Cla_Loss: 3.1735750913619993	Con_Loss: 0.9974304683506489	Cla_top1_acc: 40.66	Con_top1_acc:81.475	Cla_top5_acc: 64.97	Con_top5_acc: 92.51
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3251235485076904	Loss: 4.629586619138718	Cla_Loss: 3.5850274085998537	Con_Loss: 1.0445592436939477	Cla_top1_acc: 36.92	Con_top1_acc:82.69	Cla_top5_acc: 60.24	Con_top5_acc: 92.315
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9733047485351562	Loss: 5.861937713623047	Cla_Loss: 4.683000493049621	Con_Loss: 1.178937267512083	Cla_top1_acc: 27.38	Con_top1_acc:80.13	Cla_top5_acc: 46.84	Con_top5_acc: 91.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.466947078704834	Loss: 6.682941305637359	Cla_Loss: 5.016112220287323	Con_Loss: 1.6668290957808494	Cla_top1_acc: 24.67	Con_top1_acc:69.73	Cla_top5_acc: 46.74	Con_top5_acc: 85.365
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.806164503097534	Loss: 4.441565579175949	Cla_Loss: 3.4491494059562684	Con_Loss: 0.9924161713570356	Cla_top1_acc: 38.1	Con_top1_acc:82.97	Cla_top5_acc: 60.72	Con_top5_acc: 92.96
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.110576629638672	Loss: 6.774664092063904	Cla_Loss: 5.19237471818924	Con_Loss: 1.5822893872857093	Cla_top1_acc: 21.93	Con_top1_acc:70.7	Cla_top5_acc: 43.18	Con_top5_acc: 87.095
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9756693840026855	Loss: 4.519203060865403	Cla_Loss: 3.514295279979706	Con_Loss: 1.0049077544361353	Cla_top1_acc: 37.51	Con_top1_acc:82.58	Cla_top5_acc: 60.8	Con_top5_acc: 92.92
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.125511646270752	Loss: 6.0420035243034365	Cla_Loss: 4.6669001340866085	Con_Loss: 1.3751034051179887	Cla_top1_acc: 28.16	Con_top1_acc:76.555	Cla_top5_acc: 48.27	Con_top5_acc: 89.065
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.545590400695801	Loss: 7.7218456149101256	Cla_Loss: 5.764217829704284	Con_Loss: 1.9576277405023574	Cla_top1_acc: 18.52	Con_top1_acc:65.57	Cla_top5_acc: 38.28	Con_top5_acc: 82.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.432703733444214	Loss: 8.915584349632264	Cla_Loss: 6.395612192153931	Con_Loss: 2.519972153007984	Cla_top1_acc: 15.02	Con_top1_acc:53.495	Cla_top5_acc: 31.33	Con_top5_acc: 71.645
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.494824171066284	Loss: 5.132348096370697	Cla_Loss: 3.992117667198181	Con_Loss: 1.1402303986251354	Cla_top1_acc: 33.07	Con_top1_acc:79.4	Cla_top5_acc: 55.36	Con_top5_acc: 91.385
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.781499147415161	Loss: 5.750754916667939	Cla_Loss: 4.588045597076416	Con_Loss: 1.162709341198206	Cla_top1_acc: 28.13	Con_top1_acc:80.32	Cla_top5_acc: 47.0	Con_top5_acc: 91.165
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4242045879364014	Loss: 3.726465791463852	Cla_Loss: 2.891710329055786	Con_Loss: 0.834755465760827	Cla_top1_acc: 45.18	Con_top1_acc:86.27	Cla_top5_acc: 70.73	Con_top5_acc: 94.51
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1753010749816895	Loss: 3.7058935940265654	Cla_Loss: 2.8179665863513947	Con_Loss: 0.887927021458745	Cla_top1_acc: 45.26	Con_top1_acc:84.36	Cla_top5_acc: 70.02	Con_top5_acc: 93.835
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3647232055664062	Loss: 8.115636849403382	Cla_Loss: 6.032000160217285	Con_Loss: 2.0836366318166255	Cla_top1_acc: 16.95	Con_top1_acc:61.18	Cla_top5_acc: 34.91	Con_top5_acc: 79.05
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.349341630935669	Loss: 6.133109366893768	Cla_Loss: 4.745093810558319	Con_Loss: 1.388015552610159	Cla_top1_acc: 27.15	Con_top1_acc:75.995	Cla_top5_acc: 47.01	Con_top5_acc: 88.52
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.421007871627808	Loss: 5.595662558078766	Cla_Loss: 4.393530261516571	Con_Loss: 1.2021322999149562	Cla_top1_acc: 29.61	Con_top1_acc:79.1	Cla_top5_acc: 49.68	Con_top5_acc: 90.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.315805196762085	Loss: 4.95256866812706	Cla_Loss: 3.9184428989887237	Con_Loss: 1.0341257445514203	Cla_top1_acc: 33.38	Con_top1_acc:81.98	Cla_top5_acc: 55.6	Con_top5_acc: 92.705
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.238477945327759	Loss: 5.383936733007431	Cla_Loss: 4.257362711429596	Con_Loss: 1.1265740562230349	Cla_top1_acc: 30.71	Con_top1_acc:80.605	Cla_top5_acc: 51.5	Con_top5_acc: 91.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.905987024307251	Loss: 3.7377387464046476	Cla_Loss: 2.87940856218338	Con_Loss: 0.8583301832899451	Cla_top1_acc: 45.18	Con_top1_acc:85.5	Cla_top5_acc: 70.73	Con_top5_acc: 94.03
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.43247652053833	Loss: 7.550052773952484	Cla_Loss: 5.501846349239349	Con_Loss: 2.04820636510849	Cla_top1_acc: 19.93	Con_top1_acc:63.095	Cla_top5_acc: 40.72	Con_top5_acc: 79.95
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.51796817779541	Loss: 5.291433691978455	Cla_Loss: 4.158872658014298	Con_Loss: 1.1325609922409057	Cla_top1_acc: 32.83	Con_top1_acc:79.97	Cla_top5_acc: 54.78	Con_top5_acc: 91.09
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5096049308776855	Loss: 6.225559508800506	Cla_Loss: 4.857202744483947	Con_Loss: 1.3683567747473717	Cla_top1_acc: 25.72	Con_top1_acc:77.895	Cla_top5_acc: 45.32	Con_top5_acc: 89.275
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3145387172698975	Loss: 5.687825357913971	Cla_Loss: 4.507412552833557	Con_Loss: 1.1804128192365169	Cla_top1_acc: 29.2	Con_top1_acc:79.235	Cla_top5_acc: 49.57	Con_top5_acc: 90.53
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6143429279327393	Loss: 5.308361965417862	Cla_Loss: 4.118221461772919	Con_Loss: 1.1901404529809951	Cla_top1_acc: 33.26	Con_top1_acc:79.315	Cla_top5_acc: 55.73	Con_top5_acc: 90.94
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.196929693222046	Loss: 4.450618284940719	Cla_Loss: 3.4047270596027372	Con_Loss: 1.045891210436821	Cla_top1_acc: 39.0	Con_top1_acc:82.75	Cla_top5_acc: 61.72	Con_top5_acc: 92.53
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2509348392486572	Loss: 4.73263041973114	Cla_Loss: 3.63020236492157	Con_Loss: 1.102428049966693	Cla_top1_acc: 35.86	Con_top1_acc:81.32	Cla_top5_acc: 59.97	Con_top5_acc: 91.87
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4760329723358154	Loss: 5.155961340665817	Cla_Loss: 3.9860203504562377	Con_Loss: 1.1699409872293471	Cla_top1_acc: 34.82	Con_top1_acc:79.87	Cla_top5_acc: 57.1	Con_top5_acc: 90.885
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.152162790298462	Loss: 7.2096306681633	Cla_Loss: 5.553609681129456	Con_Loss: 1.656020998209715	Cla_top1_acc: 21.29	Con_top1_acc:71.085	Cla_top5_acc: 41.08	Con_top5_acc: 85.92
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2541511058807373	Loss: 5.12375556230545	Cla_Loss: 4.054949289560318	Con_Loss: 1.0688062556087972	Cla_top1_acc: 33.35	Con_top1_acc:81.255	Cla_top5_acc: 55.37	Con_top5_acc: 91.71
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.191037893295288	Loss: 3.894074547290802	Cla_Loss: 2.9933676540851595	Con_Loss: 0.9007068827748299	Cla_top1_acc: 42.9	Con_top1_acc:84.765	Cla_top5_acc: 68.46	Con_top5_acc: 93.91
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.590576410293579	Loss: 5.733529055118561	Cla_Loss: 4.592956054210663	Con_Loss: 1.1405730231665074	Cla_top1_acc: 27.59	Con_top1_acc:80.61	Cla_top5_acc: 47.83	Con_top5_acc: 91.85
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5619263648986816	Loss: 6.701322066783905	Cla_Loss: 5.16823473572731	Con_Loss: 1.5330873407423495	Cla_top1_acc: 21.16	Con_top1_acc:73.18	Cla_top5_acc: 41.85	Con_top5_acc: 87.835
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.156313419342041	Loss: 6.979382467269898	Cla_Loss: 5.034298276901245	Con_Loss: 1.9450841531157494	Cla_top1_acc: 23.58	Con_top1_acc:64.44	Cla_top5_acc: 45.27	Con_top5_acc: 81.435
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.31127142906189	Loss: 6.98650768995285	Cla_Loss: 5.37779141664505	Con_Loss: 1.6087162703275681	Cla_top1_acc: 20.99	Con_top1_acc:71.235	Cla_top5_acc: 41.35	Con_top5_acc: 86.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.009824275970459	Loss: 7.710965549945831	Cla_Loss: 5.756068682670593	Con_Loss: 1.9548968747258186	Cla_top1_acc: 18.52	Con_top1_acc:65.785	Cla_top5_acc: 38.28	Con_top5_acc: 81.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.43652081489563	Loss: 5.403308606147766	Cla_Loss: 4.268773257732391	Con_Loss: 1.1345353318378328	Cla_top1_acc: 30.71	Con_top1_acc:80.39	Cla_top5_acc: 51.5	Con_top5_acc: 91.42
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.021104097366333	Loss: 4.27957044839859	Cla_Loss: 3.2613821506500242	Con_Loss: 1.0181883186101914	Cla_top1_acc: 39.91	Con_top1_acc:81.17	Cla_top5_acc: 64.08	Con_top5_acc: 92.095
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9383652210235596	Loss: 3.8894332945346832	Cla_Loss: 2.9881670773029327	Con_Loss: 0.9012662254273891	Cla_top1_acc: 43.08	Con_top1_acc:85.595	Cla_top5_acc: 68.17	Con_top5_acc: 94.24
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3021092414855957	Loss: 5.062922608852387	Cla_Loss: 3.8982706010341643	Con_Loss: 1.1646520122885704	Cla_top1_acc: 32.84	Con_top1_acc:79.445	Cla_top5_acc: 54.69	Con_top5_acc: 90.745
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.018747568130493	Loss: 3.7873777210712434	Cla_Loss: 2.9179003119468687	Con_Loss: 0.8694773979485035	Cla_top1_acc: 44.84	Con_top1_acc:85.255	Cla_top5_acc: 69.72	Con_top5_acc: 94.43
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.402423143386841	Loss: 6.841344690322876	Cla_Loss: 5.224335956573486	Con_Loss: 1.617008701711893	Cla_top1_acc: 21.59	Con_top1_acc:71.615	Cla_top5_acc: 42.58	Con_top5_acc: 86.535
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.012846231460571	Loss: 7.262628734111786	Cla_Loss: 5.34150116443634	Con_Loss: 1.9211275689303875	Cla_top1_acc: 22.01	Con_top1_acc:65.03	Cla_top5_acc: 43.35	Con_top5_acc: 81.545
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.115279197692871	Loss: 6.962851655483246	Cla_Loss: 5.281996166706085	Con_Loss: 1.6808554746210576	Cla_top1_acc: 19.95	Con_top1_acc:70.17	Cla_top5_acc: 40.8	Con_top5_acc: 85.96
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8974478244781494	Loss: 3.7737105548381806	Cla_Loss: 2.884016191959381	Con_Loss: 0.8896943453699351	Cla_top1_acc: 43.83	Con_top1_acc:84.425	Cla_top5_acc: 69.01	Con_top5_acc: 93.94
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.134066104888916	Loss: 5.456347453594208	Cla_Loss: 4.295456063747406	Con_Loss: 1.1608914002776145	Cla_top1_acc: 30.95	Con_top1_acc:78.815	Cla_top5_acc: 51.97	Con_top5_acc: 90.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5576603412628174	Loss: 5.191237592697144	Cla_Loss: 4.026107031106949	Con_Loss: 1.1651305127888918	Cla_top1_acc: 34.82	Con_top1_acc:80.01	Cla_top5_acc: 57.1	Con_top5_acc: 90.975
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.722186803817749	Loss: 8.21742502450943	Cla_Loss: 6.03033744096756	Con_Loss: 2.1870876133441923	Cla_top1_acc: 16.71	Con_top1_acc:59.465	Cla_top5_acc: 32.13	Con_top5_acc: 76.73
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2921252250671387	Loss: 6.207424354553223	Cla_Loss: 4.84755129814148	Con_Loss: 1.359873066842556	Cla_top1_acc: 25.72	Con_top1_acc:77.74	Cla_top5_acc: 45.32	Con_top5_acc: 89.455
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3824448585510254	Loss: 6.705156207084656	Cla_Loss: 5.032550477981568	Con_Loss: 1.6726057559251786	Cla_top1_acc: 24.21	Con_top1_acc:69.26	Cla_top5_acc: 46.54	Con_top5_acc: 85.37
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3480610847473145	Loss: 7.233665096759796	Cla_Loss: 5.310827398300171	Con_Loss: 1.9228377386927604	Cla_top1_acc: 22.16	Con_top1_acc:64.73	Cla_top5_acc: 43.82	Con_top5_acc: 81.545
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.356750249862671	Loss: 8.734788048267365	Cla_Loss: 6.409707975387573	Con_Loss: 2.3250800177454947	Cla_top1_acc: 14.1	Con_top1_acc:56.955	Cla_top5_acc: 29.33	Con_top5_acc: 74.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.82928466796875	Loss: 5.312532460689544	Cla_Loss: 4.137751358747482	Con_Loss: 1.174781074374914	Cla_top1_acc: 32.51	Con_top1_acc:79.685	Cla_top5_acc: 54.54	Con_top5_acc: 91.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.532893180847168	Loss: 4.068138763308525	Cla_Loss: 3.064353293180466	Con_Loss: 1.003785449359566	Cla_top1_acc: 41.21	Con_top1_acc:81.665	Cla_top5_acc: 65.89	Con_top5_acc: 92.12
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9957284927368164	Loss: 7.092140376567841	Cla_Loss: 5.387320137023925	Con_Loss: 1.7048202481120824	Cla_top1_acc: 20.06	Con_top1_acc:70.415	Cla_top5_acc: 40.03	Con_top5_acc: 85.47
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.391740083694458	Loss: 8.443798875808715	Cla_Loss: 6.12664983868599	Con_Loss: 2.3171490013599394	Cla_top1_acc: 16.54	Con_top1_acc:57.995	Cla_top5_acc: 34.04	Con_top5_acc: 75.23
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7646303176879883	Loss: 3.8077483117580413	Cla_Loss: 2.8901081919670104	Con_Loss: 0.9176401166245342	Cla_top1_acc: 43.83	Con_top1_acc:84.17	Cla_top5_acc: 69.01	Con_top5_acc: 93.465
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.228515863418579	Loss: 7.257233667373657	Cla_Loss: 5.399157977104187	Con_Loss: 1.8580757260322571	Cla_top1_acc: 19.36	Con_top1_acc:65.355	Cla_top5_acc: 40.12	Con_top5_acc: 82.855
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.464733600616455	Loss: 4.088602727651596	Cla_Loss: 3.1492531538009643	Con_Loss: 0.93934958986938	Cla_top1_acc: 41.17	Con_top1_acc:84.515	Cla_top5_acc: 66.03	Con_top5_acc: 93.6
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.387674331665039	Loss: 3.7228529155254364	Cla_Loss: 2.8538692712783815	Con_Loss: 0.8689836497418583	Cla_top1_acc: 45.58	Con_top1_acc:85.365	Cla_top5_acc: 70.87	Con_top5_acc: 94.305
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.344443082809448	Loss: 4.491235315799713	Cla_Loss: 3.462970721721649	Con_Loss: 1.0282646216452123	Cla_top1_acc: 38.14	Con_top1_acc:82.395	Cla_top5_acc: 61.1	Con_top5_acc: 92.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.210510492324829	Loss: 5.043665480613709	Cla_Loss: 3.921624171733856	Con_Loss: 1.1220413528382778	Cla_top1_acc: 33.22	Con_top1_acc:80.305	Cla_top5_acc: 55.7	Con_top5_acc: 91.405
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5519368648529053	Loss: 5.410464560985565	Cla_Loss: 4.205345344543457	Con_Loss: 1.205119214951992	Cla_top1_acc: 32.93	Con_top1_acc:78.635	Cla_top5_acc: 55.21	Con_top5_acc: 90.38
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2474114894866943	Loss: 3.7724572658538817	Cla_Loss: 2.884107220172882	Con_Loss: 0.8883500403724611	Cla_top1_acc: 45.13	Con_top1_acc:85.13	Cla_top5_acc: 70.18	Con_top5_acc: 94.11
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5137367248535156	Loss: 4.0361563801765445	Cla_Loss: 3.116719502210617	Con_Loss: 0.919436858408153	Cla_top1_acc: 41.7	Con_top1_acc:84.175	Cla_top5_acc: 67.0	Con_top5_acc: 93.5
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.097120523452759	Loss: 5.648436748981476	Cla_Loss: 4.365568077564239	Con_Loss: 1.2828686863183976	Cla_top1_acc: 30.62	Con_top1_acc:77.74	Cla_top5_acc: 52.09	Con_top5_acc: 89.785
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2919225692749023	Loss: 4.605897796154022	Cla_Loss: 3.5569697260856628	Con_Loss: 1.0489280842244626	Cla_top1_acc: 37.64	Con_top1_acc:81.665	Cla_top5_acc: 59.99	Con_top5_acc: 92.395
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2766079902648926	Loss: 3.6900622963905336	Cla_Loss: 2.810249537229538	Con_Loss: 0.8798127800226212	Cla_top1_acc: 45.58	Con_top1_acc:85.015	Cla_top5_acc: 70.87	Con_top5_acc: 94.135
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.947497844696045	Loss: 5.312273931503296	Cla_Loss: 4.131442773342132	Con_Loss: 1.1808311738073827	Cla_top1_acc: 33.26	Con_top1_acc:79.54	Cla_top5_acc: 55.73	Con_top5_acc: 90.795
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.459419012069702	Loss: 6.161049866676331	Cla_Loss: 4.754116559028626	Con_Loss: 1.406933268904686	Cla_top1_acc: 27.15	Con_top1_acc:75.645	Cla_top5_acc: 47.01	Con_top5_acc: 88.045
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.6176609992980957	Loss: 8.22960718870163	Cla_Loss: 6.0884719610214235	Con_Loss: 2.141135248541832	Cla_top1_acc: 16.95	Con_top1_acc:60.765	Cla_top5_acc: 34.51	Con_top5_acc: 78.07
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.32967209815979	Loss: 4.731195783615112	Cla_Loss: 3.617496120929718	Con_Loss: 1.1136996880173684	Cla_top1_acc: 35.86	Con_top1_acc:81.165	Cla_top5_acc: 59.97	Con_top5_acc: 91.69
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.367379665374756	Loss: 4.670880091190338	Cla_Loss: 3.6225688219070435	Con_Loss: 1.048311275243759	Cla_top1_acc: 36.04	Con_top1_acc:82.52	Cla_top5_acc: 58.82	Con_top5_acc: 92.605
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.307620048522949	Loss: 4.845056861639023	Cla_Loss: 3.6890360355377196	Con_Loss: 1.1560208089649677	Cla_top1_acc: 34.66	Con_top1_acc:80.16	Cla_top5_acc: 57.37	Con_top5_acc: 91.41
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.556105375289917	Loss: 8.461976313591004	Cla_Loss: 6.321144878864288	Con_Loss: 2.1408314764499665	Cla_top1_acc: 14.68	Con_top1_acc:61.285	Cla_top5_acc: 29.88	Con_top5_acc: 78.395
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3030569553375244	Loss: 7.077812612056732	Cla_Loss: 5.175071263313294	Con_Loss: 1.9027413159608841	Cla_top1_acc: 22.61	Con_top1_acc:65.58	Cla_top5_acc: 43.99	Con_top5_acc: 82.595
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.3565874099731445	Loss: 6.846501052379608	Cla_Loss: 5.091643691062927	Con_Loss: 1.7548574164509774	Cla_top1_acc: 23.16	Con_top1_acc:67.535	Cla_top5_acc: 44.74	Con_top5_acc: 84.04
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2764363288879395	Loss: 5.8391724824905396	Cla_Loss: 4.651712393760681	Con_Loss: 1.1874601148068904	Cla_top1_acc: 27.38	Con_top1_acc:80.06	Cla_top5_acc: 46.84	Con_top5_acc: 91.08
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2833619117736816	Loss: 4.364407163858414	Cla_Loss: 3.4453321218490602	Con_Loss: 0.9190750680863857	Cla_top1_acc: 38.57	Con_top1_acc:84.975	Cla_top5_acc: 61.79	Con_top5_acc: 93.825
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.057703018188477	Loss: 6.950693714618683	Cla_Loss: 5.358997666835785	Con_Loss: 1.5916960880160331	Cla_top1_acc: 20.78	Con_top1_acc:72.16	Cla_top5_acc: 40.83	Con_top5_acc: 87.19
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.238358497619629	Loss: 6.7142088413238525	Cla_Loss: 5.036014223098755	Con_Loss: 1.6781946171075106	Cla_top1_acc: 23.64	Con_top1_acc:69.11	Cla_top5_acc: 45.32	Con_top5_acc: 85.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1669864654541016	Loss: 4.456193590164185	Cla_Loss: 3.428758645057678	Con_Loss: 1.0274349734187127	Cla_top1_acc: 39.22	Con_top1_acc:83.325	Cla_top5_acc: 62.5	Con_top5_acc: 92.725
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4238057136535645	Loss: 3.982624650001526	Cla_Loss: 3.0636458337306975	Con_Loss: 0.9189787980169057	Cla_top1_acc: 43.12	Con_top1_acc:83.85	Cla_top5_acc: 67.22	Con_top5_acc: 93.305
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4049184322357178	Loss: 8.348471915721893	Cla_Loss: 6.163667786121368	Con_Loss: 2.1848040096461774	Cla_top1_acc: 17.41	Con_top1_acc:59.815	Cla_top5_acc: 35.0	Con_top5_acc: 76.495
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.351406812667847	Loss: 3.925524038076401	Cla_Loss: 2.995636874437332	Con_Loss: 0.9298871643841267	Cla_top1_acc: 43.08	Con_top1_acc:84.66	Cla_top5_acc: 68.17	Con_top5_acc: 93.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3058254718780518	Loss: 6.717305672168732	Cla_Loss: 5.1385227084159855	Con_Loss: 1.578782967478037	Cla_top1_acc: 22.46	Con_top1_acc:72.74	Cla_top5_acc: 43.2	Con_top5_acc: 87.145
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3822460174560547	Loss: 4.632504498958587	Cla_Loss: 3.6480376541614534	Con_Loss: 0.9844668783247471	Cla_top1_acc: 36.71	Con_top1_acc:83.525	Cla_top5_acc: 59.6	Con_top5_acc: 93.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.684627056121826	Loss: 8.78604439496994	Cla_Loss: 6.365497827529907	Con_Loss: 2.4205466113984584	Cla_top1_acc: 15.81	Con_top1_acc:55.58	Cla_top5_acc: 32.32	Con_top5_acc: 73.175
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.701713800430298	Loss: 6.78871910572052	Cla_Loss: 5.167249971628189	Con_Loss: 1.6214691542088986	Cla_top1_acc: 21.93	Con_top1_acc:69.73	Cla_top5_acc: 43.18	Con_top5_acc: 86.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.842900276184082	Loss: 5.372692108154297	Cla_Loss: 4.208479446172714	Con_Loss: 1.1642126642167567	Cla_top1_acc: 33.07	Con_top1_acc:80.02	Cla_top5_acc: 55.43	Con_top5_acc: 91.25
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3244552612304688	Loss: 8.410038244724273	Cla_Loss: 6.141684818267822	Con_Loss: 2.2683533668518066	Cla_top1_acc: 15.57	Con_top1_acc:57.925	Cla_top5_acc: 31.9	Con_top5_acc: 75.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.4119884967803955	Loss: 6.944903194904327	Cla_Loss: 5.013229846954346	Con_Loss: 1.9316733300685882	Cla_top1_acc: 23.22	Con_top1_acc:64.72	Cla_top5_acc: 45.19	Con_top5_acc: 80.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8843300342559814	Loss: 4.56988034248352	Cla_Loss: 3.5908782720565795	Con_Loss: 0.9790020473301411	Cla_top1_acc: 37.33	Con_top1_acc:83.205	Cla_top5_acc: 60.28	Con_top5_acc: 93.075
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.008937358856201	Loss: 7.301612854003906	Cla_Loss: 5.368614578247071	Con_Loss: 1.9329982861876487	Cla_top1_acc: 22.01	Con_top1_acc:64.675	Cla_top5_acc: 43.35	Con_top5_acc: 81.53
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.52630877494812	Loss: 4.5406426846981045	Cla_Loss: 3.563029646873474	Con_Loss: 0.9776129990816116	Cla_top1_acc: 37.33	Con_top1_acc:83.725	Cla_top5_acc: 60.28	Con_top5_acc: 93.02
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.499971866607666	Loss: 5.036598694324494	Cla_Loss: 3.9605384886264803	Con_Loss: 1.0760602107271553	Cla_top1_acc: 33.88	Con_top1_acc:80.975	Cla_top5_acc: 55.65	Con_top5_acc: 92.13
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7424817085266113	Loss: 8.445237183570862	Cla_Loss: 6.318136465549469	Con_Loss: 2.127100668847561	Cla_top1_acc: 14.68	Con_top1_acc:61.0	Cla_top5_acc: 29.88	Con_top5_acc: 78.74
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.0725812911987305	Loss: 4.577563792467117	Cla_Loss: 3.524977278709412	Con_Loss: 1.0525865204632283	Cla_top1_acc: 37.64	Con_top1_acc:81.32	Cla_top5_acc: 59.99	Con_top5_acc: 92.17
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.726078510284424	Loss: 7.330437850952149	Cla_Loss: 5.499500977993011	Con_Loss: 1.8309368744492531	Cla_top1_acc: 20.13	Con_top1_acc:68.14	Cla_top5_acc: 40.28	Con_top5_acc: 83.725
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.547170639038086	Loss: 7.140083062648773	Cla_Loss: 5.486149907112122	Con_Loss: 1.653933160007	Cla_top1_acc: 21.27	Con_top1_acc:71.385	Cla_top5_acc: 40.97	Con_top5_acc: 86.015
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.645313262939453	Loss: 7.036505103111267	Cla_Loss: 5.1393665194511415	Con_Loss: 1.897138574719429	Cla_top1_acc: 22.61	Con_top1_acc:65.495	Cla_top5_acc: 43.99	Con_top5_acc: 82.155
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.500192642211914	Loss: 6.701674127578736	Cla_Loss: 5.038618564605713	Con_Loss: 1.663055558502674	Cla_top1_acc: 23.65	Con_top1_acc:69.285	Cla_top5_acc: 45.83	Con_top5_acc: 85.78
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.903669834136963	Loss: 4.234457123279571	Cla_Loss: 3.258595567941666	Con_Loss: 0.9758615583181381	Cla_top1_acc: 40.12	Con_top1_acc:83.635	Cla_top5_acc: 64.32	Con_top5_acc: 93.315
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.262059450149536	Loss: 7.953226244449615	Cla_Loss: 5.864472579956055	Con_Loss: 2.0887535959482193	Cla_top1_acc: 17.31	Con_top1_acc:61.26	Cla_top5_acc: 35.19	Con_top5_acc: 78.64
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3715357780456543	Loss: 6.998394930362702	Cla_Loss: 5.054467356204986	Con_Loss: 1.943927589058876	Cla_top1_acc: 23.22	Con_top1_acc:64.88	Cla_top5_acc: 45.19	Con_top5_acc: 81.65
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.106800556182861	Loss: 4.607117331027984	Cla_Loss: 3.5642249166965483	Con_Loss: 1.0428923949599267	Cla_top1_acc: 37.08	Con_top1_acc:82.665	Cla_top5_acc: 59.95	Con_top5_acc: 92.67
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.279402017593384	Loss: 7.164563059806824	Cla_Loss: 5.306199157238007	Con_Loss: 1.8583638861775398	Cla_top1_acc: 21.73	Con_top1_acc:66.435	Cla_top5_acc: 43.02	Con_top5_acc: 82.895
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.258256673812866	Loss: 7.389315521717071	Cla_Loss: 5.661734700202942	Con_Loss: 1.7275808408856392	Cla_top1_acc: 19.33	Con_top1_acc:70.025	Cla_top5_acc: 39.29	Con_top5_acc: 85.085
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.452517509460449	Loss: 4.477719604969025	Cla_Loss: 3.462010407447815	Con_Loss: 1.0157092245295645	Cla_top1_acc: 38.14	Con_top1_acc:82.605	Cla_top5_acc: 61.1	Con_top5_acc: 92.6
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2435107231140137	Loss: 6.738798713684082	Cla_Loss: 5.1661784768104555	Con_Loss: 1.5726202562451363	Cla_top1_acc: 22.46	Con_top1_acc:72.725	Cla_top5_acc: 43.2	Con_top5_acc: 87.2
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.512639284133911	Loss: 5.585334694385528	Cla_Loss: 4.320452851057053	Con_Loss: 1.2648818302899598	Cla_top1_acc: 31.67	Con_top1_acc:78.155	Cla_top5_acc: 53.18	Con_top5_acc: 89.61
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.186390399932861	Loss: 5.361404865980148	Cla_Loss: 4.164541202783584	Con_Loss: 1.196863641217351	Cla_top1_acc: 33.07	Con_top1_acc:79.53	Cla_top5_acc: 55.43	Con_top5_acc: 90.57
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.3026123046875	Loss: 7.909711146354676	Cla_Loss: 5.898831236362457	Con_Loss: 2.0108799166977405	Cla_top1_acc: 17.52	Con_top1_acc:62.91	Cla_top5_acc: 34.56	Con_top5_acc: 80.175
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.255381107330322	Loss: 5.066300016641617	Cla_Loss: 3.8901263415813445	Con_Loss: 1.176173660159111	Cla_top1_acc: 32.84	Con_top1_acc:78.895	Cla_top5_acc: 54.69	Con_top5_acc: 90.235
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7858033180236816	Loss: 6.537800884246826	Cla_Loss: 4.912944197654724	Con_Loss: 1.6248567178845406	Cla_top1_acc: 25.65	Con_top1_acc:70.865	Cla_top5_acc: 47.69	Con_top5_acc: 85.865
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.230044603347778	Loss: 6.918255031108856	Cla_Loss: 5.134408307075501	Con_Loss: 1.7838467203080655	Cla_top1_acc: 23.1	Con_top1_acc:67.11	Cla_top5_acc: 44.24	Con_top5_acc: 83.845
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.594247579574585	Loss: 7.905360329151153	Cla_Loss: 5.879613661766053	Con_Loss: 2.02574662566185	Cla_top1_acc: 17.52	Con_top1_acc:62.505	Cla_top5_acc: 34.56	Con_top5_acc: 79.88
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7121150493621826	Loss: 8.26810156106949	Cla_Loss: 6.161126875877381	Con_Loss: 2.106974735856056	Cla_top1_acc: 16.62	Con_top1_acc:61.585	Cla_top5_acc: 34.62	Con_top5_acc: 78.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4289119243621826	Loss: 4.663808441162109	Cla_Loss: 3.643031710386276	Con_Loss: 1.0207767378538848	Cla_top1_acc: 37.45	Con_top1_acc:81.675	Cla_top5_acc: 59.92	Con_top5_acc: 92.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.567521810531616	Loss: 7.0201574802398685	Cla_Loss: 5.385390496253967	Con_Loss: 1.6347669869661332	Cla_top1_acc: 21.42	Con_top1_acc:71.33	Cla_top5_acc: 42.71	Con_top5_acc: 85.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.433861255645752	Loss: 8.62838830947876	Cla_Loss: 6.36802191734314	Con_Loss: 2.2603663742542266	Cla_top1_acc: 16.07	Con_top1_acc:58.63	Cla_top5_acc: 32.8	Con_top5_acc: 75.72
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8780932426452637	Loss: 5.833242237567902	Cla_Loss: 4.654663944244385	Con_Loss: 1.1785783067345619	Cla_top1_acc: 27.38	Con_top1_acc:80.2	Cla_top5_acc: 46.84	Con_top5_acc: 91.205
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.267512798309326	Loss: 7.139742851257324	Cla_Loss: 5.430423510074616	Con_Loss: 1.7093193382024765	Cla_top1_acc: 20.06	Con_top1_acc:70.635	Cla_top5_acc: 40.03	Con_top5_acc: 85.525
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5778934955596924	Loss: 7.022453689575196	Cla_Loss: 5.386885690689087	Con_Loss: 1.6355679482221603	Cla_top1_acc: 21.42	Con_top1_acc:71.3	Cla_top5_acc: 42.71	Con_top5_acc: 86.215
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5180599689483643	Loss: 5.057282704114914	Cla_Loss: 3.9047246158123015	Con_Loss: 1.1525580836459994	Cla_top1_acc: 32.84	Con_top1_acc:79.555	Cla_top5_acc: 54.69	Con_top5_acc: 90.69
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2644009590148926	Loss: 8.724109959602355	Cla_Loss: 6.421765506267548	Con_Loss: 2.30234449878335	Cla_top1_acc: 14.1	Con_top1_acc:57.075	Cla_top5_acc: 29.33	Con_top5_acc: 74.445
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.459721326828003	Loss: 4.807909202575684	Cla_Loss: 3.7090183019638063	Con_Loss: 1.0988909393548965	Cla_top1_acc: 35.94	Con_top1_acc:81.29	Cla_top5_acc: 59.49	Con_top5_acc: 91.75
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5699596405029297	Loss: 5.596383285522461	Cla_Loss: 4.451675939559936	Con_Loss: 1.1447073593735695	Cla_top1_acc: 29.15	Con_top1_acc:80.375	Cla_top5_acc: 49.01	Con_top5_acc: 91.22
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8716704845428467	Loss: 4.870124614238739	Cla_Loss: 3.7982223868370055	Con_Loss: 1.0719022300094365	Cla_top1_acc: 35.25	Con_top1_acc:80.7	Cla_top5_acc: 57.58	Con_top5_acc: 91.925
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.069596290588379	Loss: 3.7410468816757203	Cla_Loss: 2.8722425639629363	Con_Loss: 0.8688043233007192	Cla_top1_acc: 43.83	Con_top1_acc:84.9	Cla_top5_acc: 69.01	Con_top5_acc: 94.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3483219146728516	Loss: 7.006460893154144	Cla_Loss: 5.394605875015259	Con_Loss: 1.6118550151586533	Cla_top1_acc: 21.42	Con_top1_acc:71.525	Cla_top5_acc: 42.71	Con_top5_acc: 86.58
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.25584077835083	Loss: 5.456326198577881	Cla_Loss: 4.286484849452973	Con_Loss: 1.1698413521051407	Cla_top1_acc: 30.95	Con_top1_acc:79.075	Cla_top5_acc: 51.97	Con_top5_acc: 90.565
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2967429161071777	Loss: 6.477233177423477	Cla_Loss: 4.904565000534058	Con_Loss: 1.572668158262968	Cla_top1_acc: 24.26	Con_top1_acc:71.32	Cla_top5_acc: 46.49	Con_top5_acc: 87.28
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3095290660858154	Loss: 5.044863152503967	Cla_Loss: 3.8972825348377227	Con_Loss: 1.1475805908441543	Cla_top1_acc: 32.84	Con_top1_acc:79.9	Cla_top5_acc: 54.69	Con_top5_acc: 91.27
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.412686347961426	Loss: 7.3348119258880615	Cla_Loss: 5.490457153320312	Con_Loss: 1.8443547815084458	Cla_top1_acc: 20.13	Con_top1_acc:68.095	Cla_top5_acc: 40.28	Con_top5_acc: 83.56
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.287041664123535	Loss: 5.585281491279602	Cla_Loss: 4.318759244680405	Con_Loss: 1.2665222227573394	Cla_top1_acc: 31.04	Con_top1_acc:78.32	Cla_top5_acc: 51.89	Con_top5_acc: 90.06
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8780996799468994	Loss: 4.715198034048081	Cla_Loss: 3.6809183776378633	Con_Loss: 1.0342796426266432	Cla_top1_acc: 35.94	Con_top1_acc:83.02	Cla_top5_acc: 59.75	Con_top5_acc: 92.8
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.792891263961792	Loss: 4.734569275379181	Cla_Loss: 3.610972148180008	Con_Loss: 1.123597115278244	Cla_top1_acc: 36.59	Con_top1_acc:81.18	Cla_top5_acc: 59.5	Con_top5_acc: 91.74
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.695345401763916	Loss: 5.591702044010162	Cla_Loss: 4.382667773962021	Con_Loss: 1.2090342745184899	Cla_top1_acc: 28.99	Con_top1_acc:79.265	Cla_top5_acc: 49.23	Con_top5_acc: 90.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3966715335845947	Loss: 3.658428394794464	Cla_Loss: 2.79839745759964	Con_Loss: 0.8600309340283274	Cla_top1_acc: 45.26	Con_top1_acc:84.955	Cla_top5_acc: 70.02	Con_top5_acc: 94.245
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3334357738494873	Loss: 5.600348711013794	Cla_Loss: 4.374585020542145	Con_Loss: 1.2257636576890945	Cla_top1_acc: 29.61	Con_top1_acc:78.39	Cla_top5_acc: 49.68	Con_top5_acc: 90.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7519068717956543	Loss: 5.847185289859771	Cla_Loss: 4.649986350536347	Con_Loss: 1.1971989668905736	Cla_top1_acc: 27.38	Con_top1_acc:80.09	Cla_top5_acc: 46.84	Con_top5_acc: 90.805
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7354021072387695	Loss: 8.456406795978546	Cla_Loss: 6.316175949573517	Con_Loss: 2.1402308575809004	Cla_top1_acc: 14.68	Con_top1_acc:61.26	Cla_top5_acc: 29.88	Con_top5_acc: 78.49
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.427924156188965	Loss: 5.415970665216446	Cla_Loss: 4.261005789041519	Con_Loss: 1.1549648568034172	Cla_top1_acc: 30.95	Con_top1_acc:79.205	Cla_top5_acc: 51.97	Con_top5_acc: 90.97
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.067363023757935	Loss: 7.118225038051605	Cla_Loss: 5.48270468711853	Con_Loss: 1.6355203539133072	Cla_top1_acc: 21.41	Con_top1_acc:72.075	Cla_top5_acc: 41.19	Con_top5_acc: 86.835
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.166056394577026	Loss: 8.30485692024231	Cla_Loss: 6.1429226160049435	Con_Loss: 2.161934345960617	Cla_top1_acc: 17.04	Con_top1_acc:59.505	Cla_top5_acc: 35.52	Con_top5_acc: 77.2
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.9882025718688965	Loss: 8.612797021865845	Cla_Loss: 6.345861184597015	Con_Loss: 2.2669358640909194	Cla_top1_acc: 16.07	Con_top1_acc:58.265	Cla_top5_acc: 32.8	Con_top5_acc: 75.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2790286540985107	Loss: 4.875959682464599	Cla_Loss: 3.7768123030662535	Con_Loss: 1.0991473888978363	Cla_top1_acc: 35.52	Con_top1_acc:80.165	Cla_top5_acc: 57.97	Con_top5_acc: 91.295
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.42962384223938	Loss: 8.112591207027435	Cla_Loss: 6.053847360610962	Con_Loss: 2.058743840456009	Cla_top1_acc: 16.95	Con_top1_acc:61.745	Cla_top5_acc: 34.91	Con_top5_acc: 79.59
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8054659366607666	Loss: 6.6742783963680266	Cla_Loss: 4.830623722076416	Con_Loss: 1.8436546489596366	Cla_top1_acc: 24.03	Con_top1_acc:67.075	Cla_top5_acc: 47.08	Con_top5_acc: 83.275
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.391143560409546	Loss: 5.108273696899414	Cla_Loss: 3.9861884832382204	Con_Loss: 1.1220852352678776	Cla_top1_acc: 33.22	Con_top1_acc:79.705	Cla_top5_acc: 55.7	Con_top5_acc: 91.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4143097400665283	Loss: 5.655459678173065	Cla_Loss: 4.528359681367874	Con_Loss: 1.1270999908447266	Cla_top1_acc: 28.13	Con_top1_acc:81.23	Cla_top5_acc: 47.0	Con_top5_acc: 91.535
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.797600269317627	Loss: 6.884735202789306	Cla_Loss: 4.953396904468536	Con_Loss: 1.9313383236527444	Cla_top1_acc: 24.38	Con_top1_acc:65.11	Cla_top5_acc: 46.02	Con_top5_acc: 81.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2928874492645264	Loss: 7.055797898769379	Cla_Loss: 5.35403665304184	Con_Loss: 1.7017612367868424	Cla_top1_acc: 20.65	Con_top1_acc:68.515	Cla_top5_acc: 42.26	Con_top5_acc: 85.765
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2781901359558105	Loss: 4.887453150749207	Cla_Loss: 3.774481695890427	Con_Loss: 1.1129714343696833	Cla_top1_acc: 35.52	Con_top1_acc:79.98	Cla_top5_acc: 57.97	Con_top5_acc: 90.915
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.28224515914917	Loss: 6.738541328907013	Cla_Loss: 5.20124214887619	Con_Loss: 1.5372991472482682	Cla_top1_acc: 21.16	Con_top1_acc:72.88	Cla_top5_acc: 41.85	Con_top5_acc: 88.09
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.406991958618164	Loss: 8.563066911697387	Cla_Loss: 6.317466938495636	Con_Loss: 2.2455999732017515	Cla_top1_acc: 14.44	Con_top1_acc:57.935	Cla_top5_acc: 30.33	Con_top5_acc: 75.57
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.7699360847473145	Loss: 4.904446762800217	Cla_Loss: 3.7659938454627992	Con_Loss: 1.1384529635310172	Cla_top1_acc: 34.52	Con_top1_acc:79.435	Cla_top5_acc: 56.33	Con_top5_acc: 90.8
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.1912598609924316	Loss: 7.226574110984802	Cla_Loss: 5.323842740058899	Con_Loss: 1.9027313336730003	Cla_top1_acc: 22.16	Con_top1_acc:65.28	Cla_top5_acc: 43.82	Con_top5_acc: 82.16
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.301654577255249	Loss: 7.010198843479157	Cla_Loss: 5.206345343589783	Con_Loss: 1.8038534872233867	Cla_top1_acc: 23.04	Con_top1_acc:67.23	Cla_top5_acc: 43.92	Con_top5_acc: 82.82
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.849820137023926	Loss: 6.436911725997925	Cla_Loss: 4.8777371644973755	Con_Loss: 1.5591745868325233	Cla_top1_acc: 25.22	Con_top1_acc:71.565	Cla_top5_acc: 47.59	Con_top5_acc: 87.06
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2912490367889404	Loss: 6.163842570781708	Cla_Loss: 4.819240021705627	Con_Loss: 1.3446025192737578	Cla_top1_acc: 26.51	Con_top1_acc:77.925	Cla_top5_acc: 45.52	Con_top5_acc: 89.69
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.4491264820098877	Loss: 7.8126713871955875	Cla_Loss: 5.821688091754913	Con_Loss: 1.9909832522273063	Cla_top1_acc: 18.52	Con_top1_acc:64.62	Cla_top5_acc: 38.28	Con_top5_acc: 81.375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.728610038757324	Loss: 5.824911940097809	Cla_Loss: 4.634951913356781	Con_Loss: 1.1899600230157374	Cla_top1_acc: 28.08	Con_top1_acc:80.115	Cla_top5_acc: 47.34	Con_top5_acc: 91.3
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.25050950050354	Loss: 5.072032785415649	Cla_Loss: 3.959495908021927	Con_Loss: 1.1125368535518647	Cla_top1_acc: 33.22	Con_top1_acc:80.425	Cla_top5_acc: 55.7	Con_top5_acc: 91.725
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.329168319702148	Loss: 4.972383260726929	Cla_Loss: 3.883469122648239	Con_Loss: 1.0889141768217088	Cla_top1_acc: 34.03	Con_top1_acc:82.805	Cla_top5_acc: 57.06	Con_top5_acc: 92.475
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2106502056121826	Loss: 5.68072919845581	Cla_Loss: 4.511269199848175	Con_Loss: 1.1694599764421583	Cla_top1_acc: 28.46	Con_top1_acc:80.18	Cla_top5_acc: 47.91	Con_top5_acc: 91.13
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2741475105285645	Loss: 7.206357002258301	Cla_Loss: 5.315174269676208	Con_Loss: 1.8911827027797699	Cla_top1_acc: 22.16	Con_top1_acc:65.615	Cla_top5_acc: 43.82	Con_top5_acc: 82.585
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3641481399536133	Loss: 6.801466476917267	Cla_Loss: 5.199562251567841	Con_Loss: 1.6019042670726775	Cla_top1_acc: 21.93	Con_top1_acc:69.8	Cla_top5_acc: 43.18	Con_top5_acc: 86.82
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.2253577709198	Loss: 4.296823209524154	Cla_Loss: 3.275921756029129	Con_Loss: 1.0209014520049096	Cla_top1_acc: 39.91	Con_top1_acc:80.935	Cla_top5_acc: 64.08	Con_top5_acc: 91.96
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.482821464538574	Loss: 7.0089512944221495	Cla_Loss: 5.205328357219696	Con_Loss: 1.803622967004776	Cla_top1_acc: 23.04	Con_top1_acc:67.265	Cla_top5_acc: 43.92	Con_top5_acc: 83.62
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.5083775520324707	Loss: 5.182518690824509	Cla_Loss: 4.031987410783768	Con_Loss: 1.1505312769673766	Cla_top1_acc: 32.57	Con_top1_acc:79.6	Cla_top5_acc: 55.02	Con_top5_acc: 90.995
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.3449618816375732	Loss: 8.409527194499969	Cla_Loss: 6.0357681035995485	Con_Loss: 2.373759089410305	Cla_top1_acc: 15.91	Con_top1_acc:56.23	Cla_top5_acc: 31.77	Con_top5_acc: 73.96
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.296635150909424	Loss: 2.3279790123589605	Cla_Loss: 2.048373191476726	Con_Loss: 0.2796058206142282	Cla_top1_acc: 54.939997996520994	Con_top1_acc:94.06999653015137	Cla_top5_acc: 79.31999620513916	Con_top5_acc: 98.84499875488281
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.260484933853149	Loss: 2.3280121383907124	Cla_Loss: 2.048401573150278	Con_Loss: 0.27961056185015243	Cla_top1_acc: 54.939997996520994	Con_top1_acc:94.0649965423584	Cla_top5_acc: 79.31999620513916	Con_top5_acc: 98.84499875488281
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.425968885421753	Loss: 2.6797785874750972	Cla_Loss: 2.3255132899867546	Con_Loss: 0.3542652996323949	Cla_top1_acc: 49.34999809036255	Con_top1_acc:92.29499649658203	Cla_top5_acc: 75.08999660797119	Con_top5_acc: 98.26499830932617
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.050785779953003	Loss: 2.9909277322481005	Cla_Loss: 2.4449277322926966	Con_Loss: 0.5459999961497115	Cla_top1_acc: 45.769998197174075	Con_top1_acc:87.35499663085938	Cla_top5_acc: 72.23999698181153	Con_top5_acc: 96.29999714050292
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.224605321884155	Loss: 4.65262746639389	Cla_Loss: 3.2227005486865696	Con_Loss: 1.429926911489569	Cla_top1_acc: 32.57999854660034	Con_top1_acc:67.62499734344482	Cla_top5_acc: 59.83999785614014	Con_top5_acc: 84.62499688415528
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.035609245300293	Loss: 7.299894636483502	Cla_Loss: 4.14786544120569	Con_Loss: 3.1520291914185172	Cla_top1_acc: 17.729999235534667	Con_top1_acc:37.479998516845704	Cla_top5_acc: 39.08999845046997	Con_top5_acc: 58.24999777679443
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.377903699874878	Loss: 2.0067019861379114	Cla_Loss: 1.8069207844116706	Con_Loss: 0.19978120002439984	Cla_top1_acc: 60.57999749298096	Con_top1_acc:95.95499731445312	Cla_top5_acc: 83.25999600524902	Con_top5_acc: 99.32999921875
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.186597585678101	Loss: 2.2227858913888174	Cla_Loss: 1.9384566894966921	Con_Loss: 0.2843292068770463	Cla_top1_acc: 55.559997996521	Con_top1_acc:93.71499664916992	Cla_top5_acc: 79.24999619903565	Con_top5_acc: 98.41499862365723
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.16963791847229	Loss: 2.4880647110424454	Cla_Loss: 2.095472195594431	Con_Loss: 0.3925925208349451	Cla_top1_acc: 51.61999802856445	Con_top1_acc:91.06499638671875	Cla_top5_acc: 76.19999653320312	Con_top5_acc: 96.96999767456055
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.791588068008423	Loss: 2.834525816732173	Cla_Loss: 2.2793014323968683	Con_Loss: 0.5552243887038111	Cla_top1_acc: 47.6499981628418	Con_top1_acc:87.50499674682617	Cla_top5_acc: 73.49999702148438	Con_top5_acc: 95.1049970916748
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.3978354930877686	Loss: 3.270099254820844	Cla_Loss: 2.4886019487175153	Con_Loss: 0.7814973100698251	Cla_top1_acc: 43.69999830474853	Con_top1_acc:82.85999672546387	Cla_top5_acc: 70.18999707183838	Con_top5_acc: 91.96999638671875
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.237016916275024	Loss: 2.2519430567463523	Cla_Loss: 2.0184085347669587	Con_Loss: 0.23353452108157197	Cla_top1_acc: 56.909997718811034	Con_top1_acc:95.16499678955078	Cla_top5_acc: 80.31999608459472	Con_top5_acc: 99.05499883728028
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.245399713516235	Loss: 2.6725611763892414	Cla_Loss: 2.389785713000263	Con_Loss: 0.2827754538747475	Cla_top1_acc: 50.519998114013674	Con_top1_acc:93.97999668579102	Cla_top5_acc: 75.7199966720581	Con_top5_acc: 98.7349985748291
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.123960494995117	Loss: 3.1813210433335612	Cla_Loss: 2.822656670062662	Con_Loss: 0.35866436683874336	Cla_top1_acc: 44.20999826583862	Con_top1_acc:92.52999658203125	Cla_top5_acc: 69.63999752197266	Con_top5_acc: 98.3849985595703
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.02730655670166	Loss: 3.6813872649515273	Cla_Loss: 3.265818978385102	Con_Loss: 0.4155682928377776	Cla_top1_acc: 37.50999852218628	Con_top1_acc:91.3249965209961	Cla_top5_acc: 63.42999751281738	Con_top5_acc: 98.0649979675293
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.462482690811157	Loss: 4.148943352184707	Cla_Loss: 3.6397682051006837	Con_Loss: 0.5091751511041209	Cla_top1_acc: 32.65999864006042	Con_top1_acc:89.29499641418457	Cla_top5_acc: 57.929997813415525	Con_top5_acc: 97.46999747009278
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.492829322814941	Loss: 1.96746555206587	Cla_Loss: 1.7568920788576277	Con_Loss: 0.21057346977775904	Cla_top1_acc: 61.57999762115479	Con_top1_acc:95.6249972503662	Cla_top5_acc: 84.39999595947266	Con_top5_acc: 99.09499913330077
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.241754055023193	Loss: 2.0528510255779295	Cla_Loss: 1.8349676655350828	Con_Loss: 0.21788335942643153	Cla_top1_acc: 59.96999766540527	Con_top1_acc:95.45499698486329	Cla_top5_acc: 83.44999607849121	Con_top5_acc: 99.09499906921387
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.382520437240601	Loss: 2.272757492048277	Cla_Loss: 2.022286474490337	Con_Loss: 0.2504710211492271	Cla_top1_acc: 56.61999769439697	Con_top1_acc:94.71499664001465	Cla_top5_acc: 80.55999615783692	Con_top5_acc: 99.0149988861084
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.438584327697754	Loss: 2.48992450931947	Cla_Loss: 2.2009628616648613	Con_Loss: 0.2889616418388679	Cla_top1_acc: 53.429997957611086	Con_top1_acc:93.74499667358398	Cla_top5_acc: 78.15999630889893	Con_top5_acc: 98.70499872131347
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.456784725189209	Loss: 2.6153007141120144	Cla_Loss: 2.2742623313725425	Con_Loss: 0.3410383819354524	Cla_top1_acc: 50.969998106384274	Con_top1_acc:92.4799966217041	Cla_top5_acc: 76.31999632873536	Con_top5_acc: 98.28999832458496
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.297530651092529	Loss: 2.117769425721477	Cla_Loss: 1.88271674149328	Con_Loss: 0.23505267810424885	Cla_top1_acc: 59.04999773864746	Con_top1_acc:95.37499700927734	Cla_top5_acc: 82.24999619140625	Con_top5_acc: 98.92499888916015
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.3229899406433105	Loss: 2.8320413502000217	Cla_Loss: 2.522401431481615	Con_Loss: 0.3096399130500692	Cla_top1_acc: 48.60999819488526	Con_top1_acc:93.65499656677247	Cla_top5_acc: 73.91999712066651	Con_top5_acc: 98.40499829101563
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.366978883743286	Loss: 3.9479414987907133	Cla_Loss: 3.475129902791634	Con_Loss: 0.4728115938014264	Cla_top1_acc: 35.61999842796326	Con_top1_acc:90.2949964416504	Cla_top5_acc: 60.96999755706787	Con_top5_acc: 97.27499762268066
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.311398983001709	Loss: 4.85860325192376	Cla_Loss: 4.223638680341432	Con_Loss: 0.6349645801585355	Cla_top1_acc: 27.29999886646271	Con_top1_acc:87.05999642944336	Cla_top5_acc: 50.60999814376831	Con_top5_acc: 96.12499731750488
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.50683069229126	Loss: 5.752189461275828	Cla_Loss: 4.92676479782132	Con_Loss: 0.8254246658129658	Cla_top1_acc: 20.639999156951905	Con_top1_acc:82.68999671020508	Cla_top5_acc: 41.46999837188721	Con_top5_acc: 94.23499643249512
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.594072580337524	Loss: 2.665382155840345	Cla_Loss: 2.3537918397848556	Con_Loss: 0.3115903228360543	Cla_top1_acc: 51.179998112487795	Con_top1_acc:93.40999653930665	Cla_top5_acc: 76.39999659118652	Con_top5_acc: 98.41999856567382
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.204034328460693	Loss: 3.2275858740154786	Cla_Loss: 2.847385255552882	Con_Loss: 0.3802006219466813	Cla_top1_acc: 43.74999830627441	Con_top1_acc:92.09499663085937	Cla_top5_acc: 69.1099973739624	Con_top5_acc: 97.98999798583985
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.955158233642578	Loss: 3.9233956714328246	Cla_Loss: 3.4334143897612317	Con_Loss: 0.4899812769546783	Cla_top1_acc: 36.76999855041504	Con_top1_acc:89.67499628601074	Cla_top5_acc: 61.59999753265381	Con_top5_acc: 97.18499783630371
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.263283729553223	Loss: 4.5922136332491315	Cla_Loss: 3.9892518014358958	Con_Loss: 0.6029618346005035	Cla_top1_acc: 30.389998620986937	Con_top1_acc:87.5499968536377	Cla_top5_acc: 53.94999796218872	Con_top5_acc: 96.50999738769531
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.2103965282440186	Loss: 5.275744217762844	Cla_Loss: 4.537413436731846	Con_Loss: 0.7383307773861096	Cla_top1_acc: 24.749998949432374	Con_top1_acc:84.7349966003418	Cla_top5_acc: 47.28999815979004	Con_top5_acc: 95.22999694213867
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.240874528884888	Loss: 1.913547594555848	Cla_Loss: 1.7210512139814362	Con_Loss: 0.19249637918077783	Cla_top1_acc: 62.35999762115478	Con_top1_acc:96.21499737548828	Cla_top5_acc: 84.44999594421387	Con_top5_acc: 99.28999912414551
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.361823320388794	Loss: 2.163832983095869	Cla_Loss: 1.9404192742683906	Con_Loss: 0.2234137097387005	Cla_top1_acc: 58.56999773101807	Con_top1_acc:95.46999695739746	Cla_top5_acc: 81.48999597473144	Con_top5_acc: 99.07999897460938
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.131562948226929	Loss: 2.1250770392177776	Cla_Loss: 1.9013826203860824	Con_Loss: 0.22369441623873204	Cla_top1_acc: 58.669997763061524	Con_top1_acc:95.43999685974121	Cla_top5_acc: 82.07999611816406	Con_top5_acc: 98.95999889526367
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.412240982055664	Loss: 2.116130140187929	Cla_Loss: 1.8825126157390129	Con_Loss: 0.23361752053602136	Cla_top1_acc: 58.289997688293454	Con_top1_acc:94.92499694519043	Cla_top5_acc: 81.66999601440429	Con_top5_acc: 99.00499891357421
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.396202802658081	Loss: 2.2906171323584137	Cla_Loss: 2.0278500921005826	Con_Loss: 0.26276703986922184	Cla_top1_acc: 55.78999782562256	Con_top1_acc:94.30499683837891	Cla_top5_acc: 79.7799959564209	Con_top5_acc: 98.72999870605469
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.434551239013672	Loss: 3.0339881481884197	Cla_Loss: 2.7125511997037655	Con_Loss: 0.32143695673925415	Cla_top1_acc: 46.5299982460022	Con_top1_acc:93.52999664306641	Cla_top5_acc: 71.80999707641601	Con_top5_acc: 98.58999836120606
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.262004852294922	Loss: 3.232642084574528	Cla_Loss: 2.8887038685435016	Con_Loss: 0.34393821394057583	Cla_top1_acc: 43.44999830322266	Con_top1_acc:92.77999657592774	Cla_top5_acc: 68.69999719085693	Con_top5_acc: 98.37999853515625
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.094911098480225	Loss: 3.8288343501605575	Cla_Loss: 3.3770619973861913	Con_Loss: 0.45177235180954284	Cla_top1_acc: 34.49999837493896	Con_top1_acc:90.15999663085938	Cla_top5_acc: 59.81999764862061	Con_top5_acc: 97.34499769287109
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.4896321296691895	Loss: 5.064062893819466	Cla_Loss: 4.394931469889854	Con_Loss: 0.6691314223215734	Cla_top1_acc: 21.769999138259887	Con_top1_acc:85.09999642944337	Cla_top5_acc: 44.03999822845459	Con_top5_acc: 95.60999702148438
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.365442752838135	Loss: 5.988790939180113	Cla_Loss: 4.95368399036874	Con_Loss: 1.0351069629621164	Cla_top1_acc: 14.209999348068237	Con_top1_acc:77.15499683990478	Cla_top5_acc: 32.15999870452881	Con_top5_acc: 90.76999669494629
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.1656653881073	Loss: 2.234423651112069	Cla_Loss: 2.0205816285644502	Con_Loss: 0.21384201978715203	Cla_top1_acc: 56.58999785308838	Con_top1_acc:95.71499710388184	Cla_top5_acc: 79.67999601593017	Con_top5_acc: 99.12999907531739
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.192630767822266	Loss: 2.184866650070218	Cla_Loss: 1.9558419019198245	Con_Loss: 0.2290247493698228	Cla_top1_acc: 57.51999775543213	Con_top1_acc:95.25499703674316	Cla_top5_acc: 81.14999610900878	Con_top5_acc: 98.86499892578125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.049440860748291	Loss: 2.2700972222595763	Cla_Loss: 2.0288054209818944	Con_Loss: 0.24129180247031098	Cla_top1_acc: 55.51999777145386	Con_top1_acc:94.8599967803955	Cla_top5_acc: 79.97999616394043	Con_top5_acc: 98.84999888916016
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.1918158531188965	Loss: 2.784321981368305	Cla_Loss: 2.4931769666911885	Con_Loss: 0.2911450160171488	Cla_top1_acc: 48.31999805908203	Con_top1_acc:93.65499682006836	Cla_top5_acc: 72.95999708862304	Con_top5_acc: 98.4949987121582
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.1021809577941895	Loss: 3.6910708353673813	Cla_Loss: 3.3138646093203867	Con_Loss: 0.3772062262077983	Cla_top1_acc: 37.74999837112427	Con_top1_acc:91.96999632873535	Cla_top5_acc: 62.06999753265381	Con_top5_acc: 98.16499830932617
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.298420667648315	Loss: 2.0408671511162955	Cla_Loss: 1.8350284142459896	Con_Loss: 0.20583873787533036	Cla_top1_acc: 59.82999776000977	Con_top1_acc:95.89499694824218	Cla_top5_acc: 82.91999590454101	Con_top5_acc: 99.2349991760254
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.5310587882995605	Loss: 2.409142235200182	Cla_Loss: 2.1369386729147792	Con_Loss: 0.27220355815810265	Cla_top1_acc: 54.10999797821045	Con_top1_acc:94.49499649963379	Cla_top5_acc: 78.55999607849121	Con_top5_acc: 98.859998828125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.142000675201416	Loss: 2.9815705028369273	Cla_Loss: 2.601706871454664	Con_Loss: 0.3798636288630019	Cla_top1_acc: 46.91999809265137	Con_top1_acc:92.79999624633788	Cla_top5_acc: 72.53999705200195	Con_top5_acc: 98.20999825439453
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.272841215133667	Loss: 4.558929086589127	Cla_Loss: 3.789927747609804	Con_Loss: 0.7690013411233751	Cla_top1_acc: 31.3899986328125	Con_top1_acc:85.17499663085937	Cla_top5_acc: 56.59999783935547	Con_top5_acc: 95.2149969116211
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.288710594177246	Loss: 6.523511872874747	Cla_Loss: 5.197294908461811	Con_Loss: 1.326216969558661	Cla_top1_acc: 18.389999250411986	Con_top1_acc:74.05999698944092	Cla_top5_acc: 40.15999838409424	Con_top5_acc: 89.25999645385743
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.236250162124634	Loss: 1.931910194081368	Cla_Loss: 1.7135472664301343	Con_Loss: 0.21836292669981075	Cla_top1_acc: 62.46999754180908	Con_top1_acc:95.55999710388184	Cla_top5_acc: 84.69999603424073	Con_top5_acc: 99.21499923095703
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.224567413330078	Loss: 2.149168908810444	Cla_Loss: 1.8834875515467828	Con_Loss: 0.26568136092194977	Cla_top1_acc: 59.3699977355957	Con_top1_acc:94.5349967803955	Cla_top5_acc: 82.15999605407715	Con_top5_acc: 98.96999891662598
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.519959926605225	Loss: 2.5937724971085143	Cla_Loss: 2.2143574485675894	Con_Loss: 0.37941504704008855	Cla_top1_acc: 53.659998052978516	Con_top1_acc:92.01499659729004	Cla_top5_acc: 78.19999625854493	Con_top5_acc: 98.02499827575683
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.152076244354248	Loss: 3.3008668649968484	Cla_Loss: 2.7711596501816946	Con_Loss: 0.5297072142255392	Cla_top1_acc: 45.19999831619263	Con_top1_acc:88.67499663696289	Cla_top5_acc: 71.09999725189209	Con_top5_acc: 96.97999766845703
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.728447914123535	Loss: 4.265292268862828	Cla_Loss: 3.491441025579576	Con_Loss: 0.773851228918103	Cla_top1_acc: 35.639998499679564	Con_top1_acc:83.34999670562745	Cla_top5_acc: 61.799997619628904	Con_top5_acc: 94.4999968383789
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.713708400726318	Loss: 2.115696210655377	Cla_Loss: 1.9090008984366766	Con_Loss: 0.20669530837280717	Cla_top1_acc: 59.70999783172607	Con_top1_acc:95.94499720153809	Cla_top5_acc: 82.25999584655762	Con_top5_acc: 99.22999918823243
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.043890953063965	Loss: 2.6159109550414326	Cla_Loss: 2.3221835609820247	Con_Loss: 0.29372738969090173	Cla_top1_acc: 51.769998155975344	Con_top1_acc:94.11499653015137	Cla_top5_acc: 77.59999644775391	Con_top5_acc: 98.77999893188476
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.6091320514678955	Loss: 3.2538731355461286	Cla_Loss: 2.8387428367738243	Con_Loss: 0.4151302902496976	Cla_top1_acc: 44.20999819946289	Con_top1_acc:91.56499642944335	Cla_top5_acc: 70.48999750671386	Con_top5_acc: 98.08499808349609
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.450311660766602	Loss: 3.0391930440346973	Cla_Loss: 2.666412820490144	Con_Loss: 0.3727802175412075	Cla_top1_acc: 46.35999828567505	Con_top1_acc:92.63499645690918	Cla_top5_acc: 72.10999719696045	Con_top5_acc: 98.23999817199707
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.43006443977356	Loss: 3.4035300985514687	Cla_Loss: 2.9648409764543713	Con_Loss: 0.43868911046561576	Cla_top1_acc: 41.799998230743405	Con_top1_acc:91.14499637451172	Cla_top5_acc: 68.11999753570556	Con_top5_acc: 97.7349978942871
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.617410898208618	Loss: 2.3140153666194396	Cla_Loss: 2.074979324778207	Con_Loss: 0.2390360407424059	Cla_top1_acc: 55.89999792633056	Con_top1_acc:95.11499703063964	Cla_top5_acc: 80.18999600219726	Con_top5_acc: 99.0599990814209
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.4820756912231445	Loss: 2.7813460123624734	Cla_Loss: 2.4765232514134414	Con_Loss: 0.30482276220866245	Cla_top1_acc: 49.359998141479494	Con_top1_acc:93.84999662780761	Cla_top5_acc: 74.61999662475586	Con_top5_acc: 98.50499843139649
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.13235878944397	Loss: 4.200426739754437	Cla_Loss: 3.6785023032332496	Con_Loss: 0.5219244447221859	Cla_top1_acc: 33.61999853439331	Con_top1_acc:89.12499644470215	Cla_top5_acc: 58.109997790527345	Con_top5_acc: 97.12999772338867
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.981881856918335	Loss: 5.4618918192472385	Cla_Loss: 4.69927232042491	Con_Loss: 0.7626195111506276	Cla_top1_acc: 23.249999061203003	Con_top1_acc:84.04499663391114	Cla_top5_acc: 45.17999820480347	Con_top5_acc: 95.02999696044922
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.514655828475952	Loss: 7.356966769952568	Cla_Loss: 6.0616383175198125	Con_Loss: 1.2953284466438155	Cla_top1_acc: 12.219999482631684	Con_top1_acc:72.514996875	Cla_top5_acc: 28.479998765945435	Con_top5_acc: 89.54999642333985
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.539100646972656	Loss: 2.5436905661075233	Cla_Loss: 2.3064322330111224	Con_Loss: 0.2372583304565373	Cla_top1_acc: 52.29999797363281	Con_top1_acc:95.00499694213867	Cla_top5_acc: 77.06999641723633	Con_top5_acc: 99.02499900207519
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.111400365829468	Loss: 2.9991549493597565	Cla_Loss: 2.7260557421677403	Con_Loss: 0.2730992012690726	Cla_top1_acc: 46.18999819946289	Con_top1_acc:93.96499674377442	Cla_top5_acc: 71.81999718475342	Con_top5_acc: 98.6799986907959
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.8580543994903564	Loss: 2.202522484089831	Cla_Loss: 1.973428703469338	Con_Loss: 0.22909377735081338	Cla_top1_acc: 58.42999766998291	Con_top1_acc:95.159996774292	Cla_top5_acc: 81.56999587097168	Con_top5_acc: 99.09499882202148
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 3.8810245990753174	Loss: 3.307697747679923	Cla_Loss: 2.894507224611241	Con_Loss: 0.41319052505193	Cla_top1_acc: 44.47999831924439	Con_top1_acc:91.1399962310791	Cla_top5_acc: 69.50999721069336	Con_top5_acc: 97.84499795532227
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.536996841430664	Loss: 4.653666516859754	Cla_Loss: 3.976470424974565	Con_Loss: 0.6771960881330984	Cla_top1_acc: 33.04999856681824	Con_top1_acc:84.7849966217041	Cla_top5_acc: 56.37999781188965	Con_top5_acc: 95.45999678344727
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.340388298034668	Loss: 2.283223535517137	Cla_Loss: 2.0170236851671617	Con_Loss: 0.2661998515560044	Cla_top1_acc: 56.49999781570435	Con_top1_acc:94.46999693603516	Cla_top5_acc: 80.69999584350586	Con_top5_acc: 98.92499881591797
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.099217176437378	Loss: 2.661509214116515	Cla_Loss: 2.3416327087999247	Con_Loss: 0.31987651278057116	Cla_top1_acc: 51.15999814147949	Con_top1_acc:93.48499696044922	Cla_top5_acc: 76.42999644927978	Con_top5_acc: 98.34999853515625
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.294407606124878	Loss: 3.100626708792268	Cla_Loss: 2.649945273244981	Con_Loss: 0.4506814364853094	Cla_top1_acc: 45.71999826126098	Con_top1_acc:90.24499670410157	Cla_top5_acc: 72.13999719543457	Con_top5_acc: 97.32999777526855
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.908311605453491	Loss: 3.8150622930458122	Cla_Loss: 3.2315367473115164	Con_Loss: 0.5835255408565775	Cla_top1_acc: 37.83999829483032	Con_top1_acc:87.33999676208497	Cla_top5_acc: 64.25999759826661	Con_top5_acc: 96.2949974243164
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.276169776916504	Loss: 3.7145712049744968	Cla_Loss: 3.092970783761937	Con_Loss: 0.6216004251790561	Cla_top1_acc: 39.149998378753665	Con_top1_acc:86.54499671020508	Cla_top5_acc: 65.76999757995605	Con_top5_acc: 95.68499714050293
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.446540594100952	Loss: 2.244538850492711	Cla_Loss: 1.9473272909363397	Con_Loss: 0.29721156009238403	Cla_top1_acc: 57.559997673034665	Con_top1_acc:93.90999663696289	Cla_top5_acc: 81.20999590759277	Con_top5_acc: 98.48499852600098
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.316431045532227	Loss: 2.5287560704800724	Cla_Loss: 2.1641761956455037	Con_Loss: 0.3645798717524937	Cla_top1_acc: 53.19999795227051	Con_top1_acc:92.34999643859864	Cla_top5_acc: 78.25999636230469	Con_top5_acc: 97.98499832763672
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.471963405609131	Loss: 2.800735977056215	Cla_Loss: 2.383926501805834	Con_Loss: 0.4168094701314573	Cla_top1_acc: 50.26999808349609	Con_top1_acc:91.2249964263916	Cla_top5_acc: 75.46999670410156	Con_top5_acc: 97.40499801330566
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.219208002090454	Loss: 3.0962207415978686	Cla_Loss: 2.6188521277990273	Con_Loss: 0.47736860701827694	Cla_top1_acc: 47.019998136138916	Con_top1_acc:89.76499659423828	Cla_top5_acc: 72.15999715576172	Con_top5_acc: 96.90999782104493
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.311669826507568	Loss: 3.5166343982271155	Cla_Loss: 2.9326995422514224	Con_Loss: 0.5839348527060139	Cla_top1_acc: 43.41999834976196	Con_top1_acc:87.43999650268555	Cla_top5_acc: 68.49999753723145	Con_top5_acc: 95.9649974609375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.99280858039856	Loss: 2.102570176553383	Cla_Loss: 1.8853741221719509	Con_Loss: 0.2171960565388846	Cla_top1_acc: 58.249997764587405	Con_top1_acc:95.48999710083008	Cla_top5_acc: 81.75999602508544	Con_top5_acc: 99.1049990234375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.380354642868042	Loss: 2.2284754553287147	Cla_Loss: 1.984053264418952	Con_Loss: 0.24442219209569177	Cla_top1_acc: 55.71999784698486	Con_top1_acc:94.91499673156738	Cla_top5_acc: 79.80999586486817	Con_top5_acc: 98.95999896850586
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.297598361968994	Loss: 2.415885924006538	Cla_Loss: 2.07263677626205	Con_Loss: 0.3432491525418038	Cla_top1_acc: 52.499998048400876	Con_top1_acc:92.30999672546386	Cla_top5_acc: 76.86999629364014	Con_top5_acc: 97.6949981262207
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.375103950500488	Loss: 3.208118431002116	Cla_Loss: 2.518637947041354	Con_Loss: 0.6894804899641078	Cla_top1_acc: 43.45999824447632	Con_top1_acc:84.6199966217041	Cla_top5_acc: 69.64999744262695	Con_top5_acc: 93.2999967010498
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.129728078842163	Loss: 3.7779005783067334	Cla_Loss: 2.832956148994912	Con_Loss: 0.9449444326351015	Cla_top1_acc: 38.139998331451416	Con_top1_acc:79.4999967880249	Cla_top5_acc: 64.20999759979249	Con_top5_acc: 90.00499654846192
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.412301778793335	Loss: 2.1309405505228387	Cla_Loss: 1.9058150276005696	Con_Loss: 0.22512552533432734	Cla_top1_acc: 58.739997769165036	Con_top1_acc:95.36499714355469	Cla_top5_acc: 82.16999607543946	Con_top5_acc: 99.02999907226562
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.136398077011108	Loss: 2.5199025882233816	Cla_Loss: 2.2463750050222275	Con_Loss: 0.273527578805848	Cla_top1_acc: 52.44999804763794	Con_top1_acc:94.48499681091309	Cla_top5_acc: 77.68999631652832	Con_top5_acc: 98.72499871826172
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.992332458496094	Loss: 3.1482775468620465	Cla_Loss: 2.7867790404841197	Con_Loss: 0.3614984990881501	Cla_top1_acc: 44.80999829788208	Con_top1_acc:92.54499646606445	Cla_top5_acc: 70.18999729156494	Con_top5_acc: 98.14499801940919
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.897663354873657	Loss: 3.8989965529750577	Cla_Loss: 3.4447568989486146	Con_Loss: 0.45423965847535097	Cla_top1_acc: 36.06999829216004	Con_top1_acc:90.67999647521972	Cla_top5_acc: 60.95999771270752	Con_top5_acc: 97.45999792480468
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.434250831604004	Loss: 5.38890449177447	Cla_Loss: 4.6405045831803795	Con_Loss: 0.7483998992674642	Cla_top1_acc: 23.899999006462096	Con_top1_acc:84.26499666137695	Cla_top5_acc: 45.47999822998047	Con_top5_acc: 95.19499678649902
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.099072694778442	Loss: 2.4999951072734037	Cla_Loss: 2.2386473777482836	Con_Loss: 0.26134773384002474	Cla_top1_acc: 52.66999797058106	Con_top1_acc:94.59999678344727	Cla_top5_acc: 77.27999629211426	Con_top5_acc: 98.78999881286622
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.386119604110718	Loss: 2.876289359528384	Cla_Loss: 2.5618007020127003	Con_Loss: 0.3144886575156836	Cla_top1_acc: 46.80999812774658	Con_top1_acc:93.28999668884278	Cla_top5_acc: 72.089996925354	Con_top5_acc: 98.36999851379394
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 4.603540420532227	Loss: 3.4234297841572934	Cla_Loss: 3.0210058333204803	Con_Loss: 0.4024239625754974	Cla_top1_acc: 40.40999839706421	Con_top1_acc:91.00999672241211	Cla_top5_acc: 65.26999750823974	Con_top5_acc: 97.85999786376954
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.2862138748168945	Loss: 4.307728442356741	Cla_Loss: 3.74720215454376	Con_Loss: 0.5605262906538496	Cla_top1_acc: 31.69999868774414	Con_top1_acc:87.16999654846191	Cla_top5_acc: 54.71999800872803	Con_top5_acc: 96.28499703063964
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.249377727508545	Loss: 5.069303052030879	Cla_Loss: 4.319214210235815	Con_Loss: 0.7500888384717832	Cla_top1_acc: 25.209999002456666	Con_top1_acc:83.31999659423828	Cla_top5_acc: 46.75999829330444	Con_top5_acc: 93.96499639587402
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 9.460699319839478	Loss: 2.434453315036312	Cla_Loss: 2.0490207884721694	Con_Loss: 0.38543253130973526	Cla_top1_acc: 54.96	Con_top1_acc:92.255	Cla_top5_acc: 79.32	Con_top5_acc: 98.255
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.56257700920105	Loss: 2.8320828630666064	Cla_Loss: 2.3241488090745963	Con_Loss: 0.5079340428873232	Cla_top1_acc: 49.33	Con_top1_acc:89.41	Cla_top5_acc: 75.1	Con_top5_acc: 97.22
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.584497451782227	Loss: 3.190180567419453	Cla_Loss: 2.4462989113133426	Con_Loss: 0.7438816515503416	Cla_top1_acc: 45.78	Con_top1_acc:84.06	Cla_top5_acc: 72.23	Con_top5_acc: 94.375
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.272649765014648	Loss: 4.991309694423797	Cla_Loss: 3.2219760448310026	Con_Loss: 1.7693336670565758	Cla_top1_acc: 32.57	Con_top1_acc:62.79	Cla_top5_acc: 59.82	Con_top5_acc: 79.455
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.849529981613159	Loss: 7.776014081991402	Cla_Loss: 4.149854656997	Con_Loss: 3.6261594416988885	Cla_top1_acc: 17.72	Con_top1_acc:32.64	Cla_top5_acc: 39.11	Con_top5_acc: 51.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.808562517166138	Loss: 2.108656388938807	Cla_Loss: 1.8038701350521889	Con_Loss: 0.3047862460089337	Cla_top1_acc: 60.58	Con_top1_acc:94.115	Cla_top5_acc: 83.27	Con_top5_acc: 98.5
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.31904149055481	Loss: 2.3228223346600867	Cla_Loss: 1.9384800226065764	Con_Loss: 0.38434230635879907	Cla_top1_acc: 55.56	Con_top1_acc:92.12	Cla_top5_acc: 79.26	Con_top5_acc: 97.505
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.640974760055542	Loss: 2.6268582769260287	Cla_Loss: 2.0966387022832396	Con_Loss: 0.5302195780121597	Cla_top1_acc: 51.62	Con_top1_acc:88.54	Cla_top5_acc: 76.2	Con_top5_acc: 95.615
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.758343935012817	Loss: 3.0157024222574416	Cla_Loss: 2.278200626373291	Con_Loss: 0.7375017948401202	Cla_top1_acc: 47.65	Con_top1_acc:84.335	Cla_top5_acc: 73.51	Con_top5_acc: 92.64
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.847039222717285	Loss: 3.479151286896627	Cla_Loss: 2.4902985422474564	Con_Loss: 0.98885274616776	Cla_top1_acc: 43.7	Con_top1_acc:79.94	Cla_top5_acc: 70.23	Con_top5_acc: 89.11
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.787696599960327	Loss: 2.344544628623185	Cla_Loss: 2.0181478618816207	Con_Loss: 0.3263967665517406	Cla_top1_acc: 56.91	Con_top1_acc:93.86	Cla_top5_acc: 80.32	Con_top5_acc: 98.27
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.776959180831909	Loss: 2.7988737510268096	Cla_Loss: 2.395527648318345	Con_Loss: 0.4033461018542575	Cla_top1_acc: 50.5	Con_top1_acc:92.095	Cla_top5_acc: 75.72	Con_top5_acc: 97.85
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.63604474067688	Loss: 3.3216449394347562	Cla_Loss: 2.8240364994972373	Con_Loss: 0.4976084470559078	Cla_top1_acc: 44.22	Con_top1_acc:89.98	Cla_top5_acc: 69.65	Con_top5_acc: 97.435
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.331931829452515	Loss: 3.85581341366859	Cla_Loss: 3.2645682271119134	Con_Loss: 0.5912451870312356	Cla_top1_acc: 37.53	Con_top1_acc:88.39	Cla_top5_acc: 63.44	Con_top5_acc: 96.595
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.8984880447387695	Loss: 4.342685006985999	Cla_Loss: 3.6343645609108504	Con_Loss: 0.7083204306045155	Cla_top1_acc: 32.67	Con_top1_acc:86.185	Cla_top5_acc: 57.95	Con_top5_acc: 95.725
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.598228693008423	Loss: 2.057667852207354	Cla_Loss: 1.757291331412686	Con_Loss: 0.30037652610973187	Cla_top1_acc: 61.58	Con_top1_acc:94.225	Cla_top5_acc: 84.4	Con_top5_acc: 98.545
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.997360706329346	Loss: 2.1456699242257766	Cla_Loss: 1.83745922214666	Con_Loss: 0.3082107003944315	Cla_top1_acc: 59.97	Con_top1_acc:93.92	Cla_top5_acc: 83.45	Con_top5_acc: 98.565
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.045831680297852	Loss: 2.3802215597432133	Cla_Loss: 2.020851745726956	Con_Loss: 0.35936981138245316	Cla_top1_acc: 56.61	Con_top1_acc:92.96	Cla_top5_acc: 80.56	Con_top5_acc: 98.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.364798307418823	Loss: 2.615281564414881	Cla_Loss: 2.2033482471089454	Con_Loss: 0.4119333144585798	Cla_top1_acc: 53.42	Con_top1_acc:91.81	Cla_top5_acc: 78.15	Con_top5_acc: 97.805
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.087233304977417	Loss: 2.7711480051089246	Cla_Loss: 2.277099308694244	Con_Loss: 0.494048690055586	Cla_top1_acc: 50.97	Con_top1_acc:89.625	Cla_top5_acc: 76.32	Con_top5_acc: 97.025
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.708626985549927	Loss: 2.1954484654080337	Cla_Loss: 1.8784182341235458	Con_Loss: 0.31703023090484034	Cla_top1_acc: 59.04	Con_top1_acc:94.025	Cla_top5_acc: 82.25	Con_top5_acc: 98.395
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.581384181976318	Loss: 2.9588220240963494	Cla_Loss: 2.5180222509772916	Con_Loss: 0.4407997676141702	Cla_top1_acc: 48.61	Con_top1_acc:91.25	Cla_top5_acc: 73.91	Con_top5_acc: 97.39
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.686455011367798	Loss: 4.132203544021412	Cla_Loss: 3.4778378662789704	Con_Loss: 0.6543656654039006	Cla_top1_acc: 35.61	Con_top1_acc:87.395	Cla_top5_acc: 60.96	Con_top5_acc: 95.695
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.527590751647949	Loss: 5.099132932675112	Cla_Loss: 4.2252127850890915	Con_Loss: 0.8739201320204765	Cla_top1_acc: 27.31	Con_top1_acc:82.945	Cla_top5_acc: 50.64	Con_top5_acc: 93.695
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.407464265823364	Loss: 6.015289944448289	Cla_Loss: 4.921860301570528	Con_Loss: 1.0934296417388187	Cla_top1_acc: 20.64	Con_top1_acc:78.745	Cla_top5_acc: 41.47	Con_top5_acc: 91.805
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.502604246139526	Loss: 2.7845425567809183	Cla_Loss: 2.361461128398871	Con_Loss: 0.42308142738547294	Cla_top1_acc: 51.18	Con_top1_acc:91.76	Cla_top5_acc: 76.4	Con_top5_acc: 97.54
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.697223424911499	Loss: 3.384301068676505	Cla_Loss: 2.8444745206529167	Con_Loss: 0.5398265372036369	Cla_top1_acc: 43.75	Con_top1_acc:89.45	Cla_top5_acc: 69.1	Con_top5_acc: 96.935
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.617483854293823	Loss: 4.081252228682208	Cla_Loss: 3.4322439439737114	Con_Loss: 0.649008278064667	Cla_top1_acc: 36.78	Con_top1_acc:87.66	Cla_top5_acc: 61.61	Con_top5_acc: 95.935
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.999328374862671	Loss: 4.808973945629824	Cla_Loss: 3.992626712580395	Con_Loss: 0.8163472407372894	Cla_top1_acc: 30.4	Con_top1_acc:84.275	Cla_top5_acc: 53.96	Con_top5_acc: 94.415
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.010732650756836	Loss: 5.537090134468808	Cla_Loss: 4.532688722488986	Con_Loss: 1.0044014070444047	Cla_top1_acc: 24.74	Con_top1_acc:80.935	Cla_top5_acc: 47.29	Con_top5_acc: 92.445
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.483098983764648	Loss: 2.0093566680410104	Cla_Loss: 1.7207813035151003	Con_Loss: 0.2885753603497888	Cla_top1_acc: 62.36	Con_top1_acc:94.41	Cla_top5_acc: 84.45	Con_top5_acc: 98.705
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.356790542602539	Loss: 2.260447814206409	Cla_Loss: 1.9385367760992354	Con_Loss: 0.32191103820208533	Cla_top1_acc: 58.56	Con_top1_acc:93.9	Cla_top5_acc: 81.52	Con_top5_acc: 98.48
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.0773093700408936	Loss: 2.220764772147889	Cla_Loss: 1.9049773527558442	Con_Loss: 0.3157874230224236	Cla_top1_acc: 58.68	Con_top1_acc:93.83	Cla_top5_acc: 82.08	Con_top5_acc: 98.485
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.5877604484558105	Loss: 2.2150854578443395	Cla_Loss: 1.885044545884345	Con_Loss: 0.3300409144277026	Cla_top1_acc: 58.3	Con_top1_acc:93.47	Cla_top5_acc: 81.67	Con_top5_acc: 98.27
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.653616189956665	Loss: 2.3826379476079516	Cla_Loss: 2.020557734237355	Con_Loss: 0.3620802105232409	Cla_top1_acc: 55.8	Con_top1_acc:92.995	Cla_top5_acc: 79.8	Con_top5_acc: 98.08
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.880677938461304	Loss: 3.1524428151975012	Cla_Loss: 2.7123555392976018	Con_Loss: 0.44008727366947065	Cla_top1_acc: 46.53	Con_top1_acc:91.625	Cla_top5_acc: 71.81	Con_top5_acc: 97.9
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.818424940109253	Loss: 3.362470493195163	Cla_Loss: 2.8909139337053724	Con_Loss: 0.47155655854067224	Cla_top1_acc: 43.45	Con_top1_acc:90.785	Cla_top5_acc: 68.69	Con_top5_acc: 97.53
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.40053391456604	Loss: 4.006838025560804	Cla_Loss: 3.3875868001561256	Con_Loss: 0.6192512216082044	Cla_top1_acc: 34.49	Con_top1_acc:87.37	Cla_top5_acc: 59.85	Con_top5_acc: 95.89
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.610705614089966	Loss: 5.28717668800597	Cla_Loss: 4.395304828692394	Con_Loss: 0.8918718304603722	Cla_top1_acc: 21.76	Con_top1_acc:81.91	Cla_top5_acc: 44.02	Con_top5_acc: 93.275
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.734528541564941	Loss: 6.286263192535206	Cla_Loss: 4.952310671472246	Con_Loss: 1.3339525411842734	Cla_top1_acc: 14.21	Con_top1_acc:72.91	Cla_top5_acc: 32.14	Con_top5_acc: 86.95
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.355356693267822	Loss: 2.3322580369414796	Cla_Loss: 2.0173430700970303	Con_Loss: 0.3149149606751788	Cla_top1_acc: 56.59	Con_top1_acc:93.895	Cla_top5_acc: 79.69	Con_top5_acc: 98.5
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.837407827377319	Loss: 2.2717575503003067	Cla_Loss: 1.9554501050596784	Con_Loss: 0.3163074384544306	Cla_top1_acc: 57.51	Con_top1_acc:93.975	Cla_top5_acc: 81.17	Con_top5_acc: 98.51
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.678738117218018	Loss: 2.3724755306912075	Cla_Loss: 2.0293283500489157	Con_Loss: 0.34314718434385433	Cla_top1_acc: 55.52	Con_top1_acc:93.13	Cla_top5_acc: 79.95	Con_top5_acc: 98.21
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.805626392364502	Loss: 2.9022284070397637	Cla_Loss: 2.490650304563486	Con_Loss: 0.41157810076786455	Cla_top1_acc: 48.32	Con_top1_acc:91.875	Cla_top5_acc: 72.96	Con_top5_acc: 97.61
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.050344705581665	Loss: 3.8324320316314697	Cla_Loss: 3.3101324518774726	Con_Loss: 0.5222995679849273	Cla_top1_acc: 37.74	Con_top1_acc:89.785	Cla_top5_acc: 62.1	Con_top5_acc: 97.065
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.75044322013855	Loss: 2.1466018189290526	Cla_Loss: 1.8390319142371985	Con_Loss: 0.30756990848832827	Cla_top1_acc: 59.83	Con_top1_acc:94.15	Cla_top5_acc: 82.93	Con_top5_acc: 98.68
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.721984148025513	Loss: 2.5135616891703028	Cla_Loss: 2.132177377202708	Con_Loss: 0.38138431538442136	Cla_top1_acc: 54.1	Con_top1_acc:92.745	Cla_top5_acc: 78.58	Con_top5_acc: 98.115
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.7100911140441895	Loss: 3.137133929380186	Cla_Loss: 2.601971527573409	Con_Loss: 0.5351624026609834	Cla_top1_acc: 46.91	Con_top1_acc:90.235	Cla_top5_acc: 72.53	Con_top5_acc: 96.93
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.6961305141448975	Loss: 4.792379537205787	Cla_Loss: 3.7854318330242376	Con_Loss: 1.0069477112999388	Cla_top1_acc: 31.39	Con_top1_acc:82.315	Cla_top5_acc: 56.58	Con_top5_acc: 93.165
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.7996985912323	Loss: 6.886536986964523	Cla_Loss: 5.194348892588525	Con_Loss: 1.692188087921993	Cla_top1_acc: 18.36	Con_top1_acc:69.525	Cla_top5_acc: 40.17	Con_top5_acc: 85.495
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.689339876174927	Loss: 2.0211730663943444	Cla_Loss: 1.7126275399687942	Con_Loss: 0.308545530957591	Cla_top1_acc: 62.46	Con_top1_acc:93.92	Cla_top5_acc: 84.7	Con_top5_acc: 98.58
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.85782527923584	Loss: 2.2742219700175488	Cla_Loss: 1.8841696051275654	Con_Loss: 0.3900523551140621	Cla_top1_acc: 59.37	Con_top1_acc:92.29	Cla_top5_acc: 82.17	Con_top5_acc: 98.095
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.711798429489136	Loss: 2.731942819941575	Cla_Loss: 2.2149383550996236	Con_Loss: 0.5170044659808942	Cla_top1_acc: 53.64	Con_top1_acc:90.06	Cla_top5_acc: 78.2	Con_top5_acc: 96.955
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.507596254348755	Loss: 3.526235881125092	Cla_Loss: 2.765231171231361	Con_Loss: 0.7610047125512627	Cla_top1_acc: 45.17	Con_top1_acc:84.425	Cla_top5_acc: 71.1	Con_top5_acc: 94.855
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.762216806411743	Loss: 4.550292526840404	Cla_Loss: 3.502203312649089	Con_Loss: 1.0480891997647133	Cla_top1_acc: 35.64	Con_top1_acc:78.83	Cla_top5_acc: 61.81	Con_top5_acc: 91.735
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.7513427734375	Loss: 2.227928728055043	Cla_Loss: 1.904061604077649	Con_Loss: 0.3238671184131864	Cla_top1_acc: 59.7	Con_top1_acc:93.66	Cla_top5_acc: 82.26	Con_top5_acc: 98.575
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.748119831085205	Loss: 2.7619121613775848	Cla_Loss: 2.3273136843541624	Con_Loss: 0.43459846701022165	Cla_top1_acc: 51.77	Con_top1_acc:91.895	Cla_top5_acc: 77.61	Con_top5_acc: 97.87
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.81200909614563	Loss: 3.4289068234194615	Cla_Loss: 2.8401127142511355	Con_Loss: 0.5887941137240951	Cla_top1_acc: 44.22	Con_top1_acc:88.765	Cla_top5_acc: 70.48	Con_top5_acc: 96.425
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.71708345413208	Loss: 3.195427107962833	Cla_Loss: 2.66737153803467	Con_Loss: 0.5280555760025218	Cla_top1_acc: 46.38	Con_top1_acc:89.795	Cla_top5_acc: 72.09	Con_top5_acc: 97.025
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 6.161639213562012	Loss: 3.5649362840470236	Cla_Loss: 2.961266818319916	Con_Loss: 0.603669468099904	Cla_top1_acc: 41.8	Con_top1_acc:88.59	Cla_top5_acc: 68.11	Con_top5_acc: 96.495
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.283731937408447	Loss: 2.402320217934384	Cla_Loss: 2.07038255178245	Con_Loss: 0.33193767133649366	Cla_top1_acc: 55.89	Con_top1_acc:93.905	Cla_top5_acc: 80.19	Con_top5_acc: 98.405
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.208307504653931	Loss: 2.8942609455934756	Cla_Loss: 2.4753147781274882	Con_Loss: 0.41894616291021847	Cla_top1_acc: 49.37	Con_top1_acc:91.91	Cla_top5_acc: 74.64	Con_top5_acc: 97.825
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.665020942687988	Loss: 4.393571179383879	Cla_Loss: 3.6838949744109137	Con_Loss: 0.7096761905463638	Cla_top1_acc: 33.62	Con_top1_acc:86.075	Cla_top5_acc: 58.1	Con_top5_acc: 95.56
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.631818532943726	Loss: 5.714888029037767	Cla_Loss: 4.6879727172244126	Con_Loss: 1.0269152965325459	Cla_top1_acc: 23.25	Con_top1_acc:80.14	Cla_top5_acc: 45.18	Con_top5_acc: 92.435
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.548025369644165	Loss: 7.727088196262432	Cla_Loss: 6.062073382602375	Con_Loss: 1.6650148455504399	Cla_top1_acc: 12.21	Con_top1_acc:66.685	Cla_top5_acc: 28.48	Con_top5_acc: 85.125
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 7.230400085449219	Loss: 2.6416183710098267	Cla_Loss: 2.3094783694880783	Con_Loss: 0.3321399990540401	Cla_top1_acc: 52.3	Con_top1_acc:93.605	Cla_top5_acc: 77.08	Con_top5_acc: 98.305
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.625082969665527	Loss: 3.1151752593411004	Cla_Loss: 2.7245851785514006	Con_Loss: 0.39059007927111	Cla_top1_acc: 46.2	Con_top1_acc:91.97	Cla_top5_acc: 71.82	Con_top5_acc: 97.78
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.605956077575684	Loss: 2.3063346352546836	Cla_Loss: 1.9788471877954568	Con_Loss: 0.32748744722194734	Cla_top1_acc: 58.42	Con_top1_acc:93.655	Cla_top5_acc: 81.56	Con_top5_acc: 98.29
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.7982447147369385	Loss: 3.4651291081859807	Cla_Loss: 2.8947251556785245	Con_Loss: 0.5704039496601008	Cla_top1_acc: 44.5	Con_top1_acc:88.63	Cla_top5_acc: 69.51	Con_top5_acc: 96.7
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.720841884613037	Loss: 4.89034619908424	Cla_Loss: 3.972242546688979	Con_Loss: 0.9181036542934976	Cla_top1_acc: 33.06	Con_top1_acc:81.39	Cla_top5_acc: 56.37	Con_top5_acc: 93.105
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.582836389541626	Loss: 2.3939484570436416	Cla_Loss: 2.0170096652522966	Con_Loss: 0.3769387983402629	Cla_top1_acc: 56.51	Con_top1_acc:92.56	Cla_top5_acc: 80.72	Con_top5_acc: 98.0
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.741992235183716	Loss: 2.7941908403566686	Cla_Loss: 2.340956865602238	Con_Loss: 0.45323397276128174	Cla_top1_acc: 51.17	Con_top1_acc:91.27	Cla_top5_acc: 76.45	Con_top5_acc: 97.395
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.644627571105957	Loss: 3.244918675938989	Cla_Loss: 2.6505587154133305	Con_Loss: 0.5943599505599138	Cla_top1_acc: 45.71	Con_top1_acc:87.895	Cla_top5_acc: 72.15	Con_top5_acc: 95.905
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.648939609527588	Loss: 4.065967113349088	Cla_Loss: 3.2353409733741905	Con_Loss: 0.8306261420629586	Cla_top1_acc: 37.86	Con_top1_acc:83.395	Cla_top5_acc: 64.25	Con_top5_acc: 93.49
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.598100662231445	Loss: 3.94789316699763	Cla_Loss: 3.0975221661245746	Con_Loss: 0.8503710107438883	Cla_top1_acc: 39.16	Con_top1_acc:82.835	Cla_top5_acc: 65.78	Con_top5_acc: 93.23
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.607728719711304	Loss: 2.3605423391244975	Cla_Loss: 1.9425076990370538	Con_Loss: 0.41803464329071865	Cla_top1_acc: 57.56	Con_top1_acc:91.73	Cla_top5_acc: 81.21	Con_top5_acc: 97.665
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.657156705856323	Loss: 2.6699996313471703	Cla_Loss: 2.1632898157569254	Con_Loss: 0.5067098100853574	Cla_top1_acc: 53.19	Con_top1_acc:89.815	Cla_top5_acc: 78.25	Con_top5_acc: 96.965
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.762684106826782	Loss: 2.967567629115597	Cla_Loss: 2.3840983536592715	Con_Loss: 0.5834692783511368	Cla_top1_acc: 50.27	Con_top1_acc:88.34	Cla_top5_acc: 75.48	Con_top5_acc: 95.97
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.729349136352539	Loss: 3.283979699869824	Cla_Loss: 2.6167489191529096	Con_Loss: 0.6672307816660328	Cla_top1_acc: 47.04	Con_top1_acc:86.46	Cla_top5_acc: 72.16	Con_top5_acc: 95.26
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.693477153778076	Loss: 3.7109664807653733	Cla_Loss: 2.9331576095265186	Con_Loss: 0.7778088834350276	Cla_top1_acc: 43.41	Con_top1_acc:84.58	Cla_top5_acc: 68.53	Con_top5_acc: 94.045
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.7185351848602295	Loss: 2.2108791345244	Cla_Loss: 1.8846773167324673	Con_Loss: 0.326201820212185	Cla_top1_acc: 58.24	Con_top1_acc:93.465	Cla_top5_acc: 81.76	Con_top5_acc: 98.42
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.705261707305908	Loss: 2.3239641083273916	Cla_Loss: 1.979330057551147	Con_Loss: 0.34463404683740273	Cla_top1_acc: 55.73	Con_top1_acc:93.04	Cla_top5_acc: 79.81	Con_top5_acc: 98.16
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.618691921234131	Loss: 2.526923285168447	Cla_Loss: 2.071502352216441	Con_Loss: 0.4554209372230396	Cla_top1_acc: 52.49	Con_top1_acc:90.35	Cla_top5_acc: 76.87	Con_top5_acc: 96.63
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.817542791366577	Loss: 3.3815488936794793	Cla_Loss: 2.5180179548870987	Con_Loss: 0.8635309420193836	Cla_top1_acc: 43.45	Con_top1_acc:81.885	Cla_top5_acc: 69.62	Con_top5_acc: 91.135
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.77901029586792	Loss: 3.9707784910870205	Cla_Loss: 2.829533816902501	Con_Loss: 1.141244683865529	Cla_top1_acc: 38.14	Con_top1_acc:76.92	Cla_top5_acc: 64.23	Con_top5_acc: 87.445
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.889037609100342	Loss: 2.2314829469486406	Cla_Loss: 1.9069372886305402	Con_Loss: 0.32454566211457464	Cla_top1_acc: 58.76	Con_top1_acc:93.57	Cla_top5_acc: 82.17	Con_top5_acc: 98.525
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.746009588241577	Loss: 2.632999196933333	Cla_Loss: 2.2466786507588283	Con_Loss: 0.3863205465541524	Cla_top1_acc: 52.45	Con_top1_acc:92.6	Cla_top5_acc: 77.67	Con_top5_acc: 98.03
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.726448059082031	Loss: 3.287110813863718	Cla_Loss: 2.7813688562174512	Con_Loss: 0.5057419705542789	Cla_top1_acc: 44.78	Con_top1_acc:90.43	Cla_top5_acc: 70.19	Con_top5_acc: 96.98
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.763876438140869	Loss: 4.103671262218694	Cla_Loss: 3.441725603334463	Con_Loss: 0.6619456698940058	Cla_top1_acc: 36.05	Con_top1_acc:86.985	Cla_top5_acc: 60.93	Con_top5_acc: 95.73
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.70355486869812	Loss: 5.665288928208078	Cla_Loss: 4.644688073237231	Con_Loss: 1.0206008469982513	Cla_top1_acc: 23.89	Con_top1_acc:79.985	Cla_top5_acc: 45.49	Con_top5_acc: 92.325
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.719357490539551	Loss: 2.6047914768480194	Cla_Loss: 2.232262022176366	Con_Loss: 0.3725294537462626	Cla_top1_acc: 52.65	Con_top1_acc:92.745	Cla_top5_acc: 77.28	Con_top5_acc: 97.985
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.797482967376709	Loss: 2.986585081003274	Cla_Loss: 2.560768396231779	Con_Loss: 0.4258166785191768	Cla_top1_acc: 46.8	Con_top1_acc:91.705	Cla_top5_acc: 72.09	Con_top5_acc: 97.645
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.717688322067261	Loss: 3.5807903040746214	Cla_Loss: 3.0208971348537763	Con_Loss: 0.5598931597296599	Cla_top1_acc: 40.41	Con_top1_acc:88.44	Cla_top5_acc: 65.28	Con_top5_acc: 96.45
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.717893123626709	Loss: 4.517056841759166	Cla_Loss: 3.7499358988111946	Con_Loss: 0.7671209440869131	Cla_top1_acc: 31.69	Con_top1_acc:83.695	Cla_top5_acc: 54.73	Con_top5_acc: 93.91
+INFO:root:Test has finished.
+DEBUG:root:Test:	batch_time: 5.722024440765381	Loss: 5.324648216271856	Cla_Loss: 4.318567837879157	Con_Loss: 1.0060803782028758	Cla_top1_acc: 25.22	Con_top1_acc:78.755	Cla_top5_acc: 46.76	Con_top5_acc: 91.045
+INFO:root:Test has finished.
